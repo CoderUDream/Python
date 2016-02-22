@@ -1,0 +1,3505 @@
+    <!DOCTYPE html>
+    <html>
+    <head>
+        <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+        <title>全部直播 - 斗鱼</title>
+        <meta name="renderer" content="webkit">
+        <meta name="keywords" content="热门游戏直播,游戏直播,高清游戏直播,手机游戏直播,电子竞技直播" />
+        <meta name="description" content="斗鱼 - 全民直播平台提供高清、快捷、流畅的视频直播和游戏赛事直播服务，包含英雄联盟lol直播、穿越火线cf直播、dota2直播、美女直播等各类热门游戏赛事直播和各种名家大神游戏直播，内容丰富，推送及时，带给你不一样的视听体验，一切尽在斗鱼 - 全民直播平台。" />
+        <link href="/favicon.ico" type="image/x-icon" rel=icon>
+        <link href="/favicon.ico" type="image/x-icon" rel="shortcut icon">
+
+        <script type="text/javascript">
+    var $SYS = {"cookie_pre":"acf_","web_url":"http:\/\/shark.douyucdn.cn\/","upload_url":"http:\/\/staticlive.douyutv.com\/upload\/","res_url":"http:\/\/staticlive.douyutv.com\/common\/","res_ver":"5.2","swf_ver":"v26185","avatar_url":"http:\/\/uc.douyutv.com\/","sgate":"secgate.douyutv.com","tvk":"ccn","tn":"ctn","fh":"http:\/\/dotcounter.douyutv.com\/deliver\/fish"};
+    $SYS['sport'] = [8101,8102,8103,8104,8105,8106,8107,8108,8109,8110];
+    var $DYS = {};
+    $DYS['page_init_time'] = new Date().getTime();
+</script>
+
+<script>
+var _hmt = _hmt || [];
+(function() {
+  var hm = document.createElement("script");
+  hm.src = "//hm.baidu.com/hm.js?e99aee90ec1b2106afe7ec3b199020a7";
+  var s = document.getElementsByTagName("script")[0]; 
+  s.parentNode.insertBefore(hm, s);
+})();
+</script>
+
+<link rel="stylesheet" type="text/css" href="http://shark.douyucdn.cn/shark/lib/css/base/1.0/base.css?160114" /><script type="text/javascript" charset="utf-8" src="http://shark.douyucdn.cn/shark/lib/js/port/shark.js?160113"></script><script type="text/javascript" charset="utf-8" src="http://shark.douyucdn.cn/shark/lib/js/lib/jquery.js?160113"></script>
+        <script type="text/javascript">
+            var $PAGE = {};
+
+            $PAGE.cateid = "0";
+            $PAGE.pager = {
+                count: "27",
+                current: "1"
+            };
+        </script>
+
+        <link rel="stylesheet" type="text/css" href="http://shark.douyucdn.cn/app/douyu/css/common.css?nv=5.2" /><link rel="stylesheet" type="text/css" href="http://shark.douyucdn.cn/app/douyu/css/com/app-all.css?nv=5.2" /><link rel="stylesheet" type="text/css" href="http://shark.douyucdn.cn/app/douyu/css/page/lives/app-all.css?nv=5.2" />    </head>
+
+    <body>
+    <div id="container" class="container">
+        <div id="header">
+	<div class="head">
+		<a class="head-logo fl" href="/"></a>
+
+		<ul class="head-nav fl">
+			<li class="fl index ">
+				<a href="/">首页</a>
+			</li>
+			<li class="fl live current">
+				<a href="/directory/all">直播</a>
+			</li>
+			<li class="fl assort ">
+				<a href="/directory">分类</a>
+                <i></i>
+<div class="a-pop">
+    <i></i>
+
+    <div class="a-list">
+                <h3>热门分类</h3>
+        <ul class="btns">
+                        <li><a target="_blank" class="btn" href="/directory/game/LOL">英雄联盟</a></li>
+                                <li><a target="_blank" class="btn" href="/directory/game/How">炉石传说</a></li>
+                                <li><a target="_blank" class="btn" href="/directory/game/DOTA2">DOTA2</a></li>
+                                <li><a target="_blank" class="btn" href="/directory/game/TVgame">主机游戏</a></li>
+                                <li><a target="_blank" class="btn" href="/directory/game/CF">穿越火线</a></li>
+                                <li><a target="_blank" class="btn" href="/directory/game/HOTS">风暴英雄</a></li>
+                            </ul>
+                            <h3>玩家推荐</h3>
+        <ul class="btns">
+                                <li><a target="_blank" class="btn" href="/directory/game/SC">星际争霸</a></li>
+                                        <li><a target="_blank" class="btn" href="/directory/game/FTG">格斗游戏</a></li>
+                                        <li><a target="_blank" class="btn" href="/directory/game/classic">怀旧游戏</a></li>
+                                        <li><a target="_blank" class="btn" href="/directory/game/zjyx">掌机游戏</a></li>
+                                        <li><a target="_blank" class="btn" href="/directory/game/lqyx">篮球游戏</a></li>
+                                        <li><a target="_blank" class="btn" href="/directory/game/NZ">逆战</a></li>
+                                        <li><a target="_blank" class="btn" href="/directory/game/tianya">天涯明月刀</a></li>
+                                        <li><a target="_blank" class="btn" href="/directory/game/JX3">剑网3</a></li>
+                                        <li><a target="_blank" class="btn" href="/directory/game/phone">综合手游</a></li>
+                            </ul>
+                    <div class="btn-all">
+            <a target="_blank" href="/directory">全部&gt;&gt;</a>
+        </div>
+    </div>
+</div>			</li>
+			<li class="fl funny ">
+				<a href="/directory/game_center">娱乐</a>
+				<i></i>
+			</li>
+			<li class="fl yuba">
+				<a href="http://yuba.douyutv.com/" target="_blank">鱼吧</a>
+			</li>
+		</ul>
+
+		<div class="head-oth fr">
+			<div class="o-search fl">
+				<input class="s-ipt fl" type="text" placeholder="搜房间/主播" value="">
+				<a class="s-ico fr" href="#">
+					<i class="icofont"></i>
+				</a>
+			</div>
+			<div class="o-history fl hide">
+                <span class="icofont h-ico"></span>
+                <span class="h-txt">历史</span>
+                <div class="h-pop">
+                	<i></i>
+                    <div class="h-load">
+                    	<img src="http://shark.douyucdn.cn/app/douyu/res/com/loading.gif">
+                    	<span>数据加载中...</span>
+                    </div>
+                    <div class="h-none">
+                    	<p class="n-tt">信息动态</p>
+                    	<p class="n-cn">
+                    		<img src="http://shark.douyucdn.cn/app/douyu/res/com/cry.png" alt="">
+                    		<span>你的历史列表空空如也~</span>
+                    	</p>
+                    </div>
+                    <ul class="h-list">
+                    </ul>
+                </div>
+			</div>
+			<div class="o-follow fl hide">
+				<span class="icofont f-ico"></span>
+                <span class="f-txt">关注</span>
+                <div class="f-pop">
+                	<i></i>
+                    <div class="f-load">
+                    	<img src="http://shark.douyucdn.cn/app/douyu/res/com/loading.gif">
+                    	<span>数据加载中...</span>
+                    </div>
+                    <div class="f-none">
+                    	<p class="n-tt">信息动态</p>
+                    	<p class="n-cn">
+                    		<img src="http://shark.douyucdn.cn/app/douyu/res/com/cry.png" alt="">
+                    		<span>你的关注列表空空如也~</span>
+                    	</p>
+                    </div>
+                    <ul class="f-list">
+                    </ul>
+                    <p class="f-all">
+                    	<a href="/room/follow">查看全部</a>
+                    </p>
+                </div>
+			</div>
+			<div class="o-download fl">
+                <a href="/client?platform=0" target="_blank">
+    				<span class="icofont d-ico"></span>
+                    <span class="d-txt">下载</span>
+                </a>
+                <i></i>
+                <div class="d-list">
+                	<i></i>
+                	<ul>
+                      	<li>
+                      		<a href="/client?platform=2" target="_blank">App下载</a>
+                      	</li>
+                      	<li>
+                      		<a href="/client?platform=1" target="_blank">主播工具下载</a>
+                      	</li>
+                  	</ul>
+                </div>
+			</div>
+			<div class="o-unlogin fl">
+				<span class="icofont u-ico fl"></span>
+                <a class="u-login fl" href="/member/login">登录</a>
+                <em class="fl">|</em>
+                <a class="u-reg fl" href="/member/register">注册</a>
+			</div>
+			<div class="o-login fl hide">
+				<span class="l-pic">
+				</span>
+                <span class="l-txt"> </span>
+                <i></i>
+                <b class="hide"></b>
+
+                <div class="l-menu">
+                	<i></i>
+                	<h4 title=""> </h4>
+                	<ul>
+                       	<li>
+                       		<span>
+                       			<a href="/member" class="user_icon1" target="_blank">个人中心</a>
+                       		</span>
+                       	</li>
+                       	<li>
+                       		<span>
+                       			<a href="/room/follow" class="user_icon2" target="_blank">我的关注</a>
+                       		</span>
+                       	</li>
+                                                <li>
+                           	<span>
+                           		<a target="_blank" class="user_icon7" href="/member/pm">私信</a>
+                        		<b class="hide"></b>
+                        	</span>
+                       	</li>
+                                                <li>
+                        	<span>
+                        		<a href="/room/my" class="user_icon3" target="_blank">设置</a>
+                        	</span>
+                        </li>
+                       	<li>
+                       		<span>
+                       			<a href="#" class="user_icon4">退出</a>
+                       		</span>
+                       	</li>
+                    </ul>
+                </div>
+			</div>
+		</div>
+	</div>
+</div>        <div id="left" class="left-menu">
+    <!-- 关闭按钮 -->
+    <a class="left-btn">
+        <span></span>
+    </a>
+
+    <!-- 导航展开状态 -->
+    <div class="left-big">
+        <div id="left-big-scroll" class="b-content">
+            <div class="scrollbar">
+                <div class="track">
+                    <div class="thumb">
+                        <div class="end"></div>
+                    </div>
+                </div>
+            </div>
+            <div class="viewport">
+                <div class="overview">
+                    <!-- 四个大频道区域 -->
+                    <div class="channel-cate">
+                        <ul>
+                            <li>
+                                <a class="cur" href="/directory/all"> <i class="icon icon-live"></i>
+                                    <span>全部直播</span>
+                                </a>
+                            </li>
+                            <li>
+                                <a href="/directory"> <i class="icon icon-game"></i>
+                                    <span>全部分类</span>
+                                </a>
+                            </li>
+                            <li class="follow">
+                                <a href="#">
+                                    <i class="icon icon-focus"></i>
+                                    <span>我的关注</span>
+                                </a>
+                            </li>
+                            <li>
+                                <a href="/directory/game_center">
+                                    <i class="icon icon-collect"></i>
+                                    <span>娱乐中心</span>
+                                </a>
+                            </li>
+                        </ul>
+                    </div>
+
+                    <!-- 游戏推荐区域 -->
+                    <div class="leftnav-cate">
+                        <div class="r-tit">
+                            <ul>
+                                <li class="cur">
+                                    <i class="icon icon-column"></i>
+                                    <span>栏目</span>
+                                </li>
+                                <li class="">
+                                    <i class="icon icon-recom"></i>
+                                    <span>推荐</span>
+                                </li>
+                            </ul>
+                        </div>
+                        <div class="r-cont column-cont ">
+                            <dl>
+                                <!--热门推荐分类-->
+                                                                                                                                    <dt  >
+                                    <a href="/directory/columnRoom/game">
+                                        <i></i><span>游戏</span>
+                                    </a>
+                                </dt>
+                                <dd >
+                                    <ul class="clearfix">
+                                                                                                                            <li>
+                                                <a href="/directory/game/LOL" title="英雄联盟"
+                                                    >
+                                                    英雄联盟                                                </a>
+                                            </li>
+                                                                                    <li>
+                                                <a href="/directory/game/How" title="炉石传说"
+                                                    >
+                                                    炉石传说                                                </a>
+                                            </li>
+                                                                                    <li>
+                                                <a href="/directory/game/DOTA2" title="DOTA2"
+                                                    >
+                                                    DOTA2                                                </a>
+                                            </li>
+                                                                                    <li>
+                                                <a href="/directory/game/CF" title="穿越火线"
+                                                    >
+                                                    穿越火线                                                </a>
+                                            </li>
+                                                                                    <li>
+                                                <a href="/directory/game/WOW" title="魔兽世界"
+                                                    >
+                                                    魔兽世界                                                </a>
+                                            </li>
+                                                                                    <li>
+                                                <a href="/directory/game/HOTS" title="风暴英雄"
+                                                    >
+                                                    风暴英雄                                                </a>
+                                            </li>
+                                                                                    <li>
+                                                <a href="/directory/game/SC" title="星际争霸"
+                                                    >
+                                                    星际争霸                                                </a>
+                                            </li>
+                                                                                    <li>
+                                                <a href="/directory/game/FTG" title="格斗游戏"
+                                                    >
+                                                    格斗游戏                                                </a>
+                                            </li>
+                                                                                    <li>
+                                                <a href="/directory/game/TVgame" title="主机游戏"
+                                                    >
+                                                    主机游戏                                                </a>
+                                            </li>
+                                                                                    <li>
+                                                <a href="/directory/game/DNF" title="地下城与勇士"
+                                                    >
+                                                    地下城与勇士                                                </a>
+                                            </li>
+                                                                                    <li>
+                                                <a href="/directory/game/classic" title="怀旧游戏"
+                                                    >
+                                                    怀旧游戏                                                </a>
+                                            </li>
+                                                                                    <li>
+                                                <a href="/directory/game/DIABLO3" title="暗黑破坏神3"
+                                                    >
+                                                    暗黑破坏神3                                                </a>
+                                            </li>
+                                                                                    <li>
+                                                <a href="/directory/game/Overwatch" title="守望先锋"
+                                                    >
+                                                    守望先锋                                                </a>
+                                            </li>
+                                                                                    <li>
+                                                <a href="/directory/game/footballgame" title="足球竞技"
+                                                    >
+                                                    足球竞技                                                </a>
+                                            </li>
+                                                                                    <li>
+                                                <a href="/directory/game/CODONLINE" title="使命召唤OL"
+                                                    >
+                                                    使命召唤OL                                                </a>
+                                            </li>
+                                                                                    <li>
+                                                <a href="/directory/game/tianya" title="天涯明月刀"
+                                                    >
+                                                    天涯明月刀                                                </a>
+                                            </li>
+                                                                                    <li>
+                                                <a href="/directory/game/CSGO" title="CS:GO"
+                                                    >
+                                                    CS:GO                                                </a>
+                                            </li>
+                                                                                    <li>
+                                                <a href="/directory/game/mszb" title="魔兽争霸"
+                                                    >
+                                                    魔兽争霸                                                </a>
+                                            </li>
+                                                                                    <li>
+                                                <a href="/directory/game/Popkart" title="跑跑卡丁车"
+                                                    >
+                                                    跑跑卡丁车                                                </a>
+                                            </li>
+                                                                                    <li>
+                                                <a href="/directory/game/MHol" title="怪物猎人ol"
+                                                    >
+                                                    怪物猎人ol                                                </a>
+                                            </li>
+                                                                                    <li>
+                                                <a href="/directory/game/NZ" title="逆战"
+                                                    >
+                                                    逆战                                                </a>
+                                            </li>
+                                                                                    <li>
+                                                <a href="/directory/game/MC" title="我的世界"
+                                                    >
+                                                    我的世界                                                </a>
+                                            </li>
+                                                                                    <li>
+                                                <a href="/directory/game/JX3" title="剑网3"
+                                                    >
+                                                    剑网3                                                </a>
+                                            </li>
+                                                                                    <li>
+                                                <a href="/directory/game/qipai" title="棋牌娱乐"
+                                                    >
+                                                    棋牌娱乐                                                </a>
+                                            </li>
+                                                                                    <li>
+                                                <a href="/directory/game/zh" title="综合游戏"
+                                                    >
+                                                    综合游戏                                                </a>
+                                            </li>
+                                                                                    <li>
+                                                <a href="/directory/game/WorldofWarships" title="战舰世界"
+                                                    >
+                                                    战舰世界                                                </a>
+                                            </li>
+                                                                                                                                                                <li>
+                                                <a href="/directory/category/game" class="more">全部&gt;&gt;</a>
+                                            </li>
+                                                                            </ul>
+                                </dd>
+                                        <!--列表-->
+                                                                    <dt  >
+                                    <a href="/directory/columnRoom/sjyx">
+                                        <i></i><span>手机游戏</span>
+                                    </a>
+                                </dt>
+                                <dd class="hide">
+                                    <ul class="clearfix">
+                                                                                                                            <li>
+                                                <a href="/directory/game/phone" title="综合手游"
+                                                    >
+                                                    综合手游                                                </a>
+                                            </li>
+                                                                                    <li>
+                                                <a href="/directory/game/mhxy" title="梦幻西游手游"
+                                                    >
+                                                    梦幻西游手游                                                </a>
+                                            </li>
+                                                                                    <li>
+                                                <a href="/directory/game/blct" title="部落冲突"
+                                                    >
+                                                    部落冲突                                                </a>
+                                            </li>
+                                                                                    <li>
+                                                <a href="/directory/game/qzwz" title="CF枪战王者"
+                                                    >
+                                                    CF枪战王者                                                </a>
+                                            </li>
+                                                                                    <li>
+                                                <a href="/directory/game/wzry" title="王者荣耀"
+                                                    >
+                                                    王者荣耀                                                </a>
+                                            </li>
+                                                                                    <li>
+                                                <a href="/directory/game/xurong" title="虚荣"
+                                                    >
+                                                    虚荣                                                </a>
+                                            </li>
+                                                                                    <li>
+                                                <a href="/directory/game/ttkp" title="天天酷跑"
+                                                    >
+                                                    天天酷跑                                                </a>
+                                            </li>
+                                                                                                                                                                <li>
+                                                <a href="/directory/category/sjyx" class="more">全部&gt;&gt;</a>
+                                            </li>
+                                                                            </ul>
+                                </dd>
+                                        <!--列表-->
+                                                                    <dt  >
+                                    <a href="/directory/columnRoom/ylxtd">
+                                        <i></i><span>鱼乐星天地</span>
+                                    </a>
+                                </dt>
+                                <dd class="hide">
+                                    <ul class="clearfix">
+                                                                                                                            <li>
+                                                <a href="/directory/game/qmxx" title="全民星秀"
+                                                    >
+                                                    全民星秀                                                </a>
+                                            </li>
+                                                                                    <li>
+                                                <a href="/directory/game/yqly" title="元气领域"
+                                                    >
+                                                    元气领域                                                </a>
+                                            </li>
+                                                                                    <li>
+                                                <a href="/directory/game/yxtx" title="鱼行天下"
+                                                    >
+                                                    鱼行天下                                                </a>
+                                            </li>
+                                                                                    <li>
+                                                <a href="/directory/game/yyrl" title="鱼音绕梁"
+                                                    >
+                                                    鱼音绕梁                                                </a>
+                                            </li>
+                                                                                    <li>
+                                                <a href="/directory/game/cybl" title="次元壁垒"
+                                                    >
+                                                    次元壁垒                                                </a>
+                                            </li>
+                                                                                    <li>
+                                                <a href="/directory/game/xxr" title="小鲜肉"
+                                                    >
+                                                    小鲜肉                                                </a>
+                                            </li>
+                                                                                    <li>
+                                                <a href="/directory/game/livecon" title="Music+"
+                                                    >
+                                                    Music+                                                </a>
+                                            </li>
+                                                                                    <li>
+                                                <a href="/directory/game/sszz" title="时尚制造"
+                                                    >
+                                                    时尚制造                                                </a>
+                                            </li>
+                                                                                    <li>
+                                                <a href="/directory/game/akb48" title="AKB48"
+                                                    >
+                                                    AKB48                                                </a>
+                                            </li>
+                                                                                    <li>
+                                                <a href="/directory/game/SNH48" title="SNH48"
+                                                    >
+                                                    SNH48                                                </a>
+                                            </li>
+                                                                                    <li>
+                                                <a href="/directory/game/ngzk46" title="乃木坂46"
+                                                    >
+                                                    乃木坂46                                                </a>
+                                            </li>
+                                                                                                                                                                <li>
+                                                <a href="/directory/category/ylxtd" class="more">全部&gt;&gt;</a>
+                                            </li>
+                                                                            </ul>
+                                </dd>
+                                        <!--列表-->
+                                                                    <dt  >
+                                    <a href="/directory/columnRoom/ywkj">
+                                        <i></i><span>鱼玩科技</span>
+                                    </a>
+                                </dt>
+                                <dd class="hide">
+                                    <ul class="clearfix">
+                                                                                                                            <li>
+                                                <a href="/directory/game/wsm" title="玩数码"
+                                                    >
+                                                    玩数码                                                </a>
+                                            </li>
+                                                                                    <li>
+                                                <a href="/directory/game/car" title="玩汽车"
+                                                    >
+                                                    玩汽车                                                </a>
+                                            </li>
+                                                                                    <li>
+                                                <a href="/directory/game/Financialplanning" title="玩金融"
+                                                    >
+                                                    玩金融                                                </a>
+                                            </li>
+                                                                                    <li>
+                                                <a href="/directory/game/kxts" title="科学探索"
+                                                    >
+                                                    科学探索                                                </a>
+                                            </li>
+                                                                                                                                                                <li>
+                                                <a href="/directory/category/ywkj" class="more">全部&gt;&gt;</a>
+                                            </li>
+                                                                            </ul>
+                                </dd>
+                                        <!--列表-->
+                                                                    <dt  >
+                                    <a href="/directory/columnRoom/yx">
+                                        <i></i><span>鱼秀</span>
+                                    </a>
+                                </dt>
+                                <dd class="hide">
+                                    <ul class="clearfix">
+                                                                                                                            <li>
+                                                <a href="/directory/game/xy" title="鱼秀"
+                                                    >
+                                                    鱼秀                                                </a>
+                                            </li>
+                                                                                                                                                                <li>
+                                                <a href="/directory/category/yx" class="more">全部&gt;&gt;</a>
+                                            </li>
+                                                                            </ul>
+                                </dd>
+                                        <!--列表-->
+                                                                    <dt  >
+                                    <a href="/directory/columnRoom/dzh">
+                                        <i></i><span>大杂烩</span>
+                                    </a>
+                                </dt>
+                                <dd class="hide">
+                                    <ul class="clearfix">
+                                                                                                                            <li>
+                                                <a href="/directory/game/gm" title="国漫"
+                                                    >
+                                                    国漫                                                </a>
+                                            </li>
+                                                                                    <li>
+                                                <a href="/directory/game/nt" title="女团"
+                                                    >
+                                                    女团                                                </a>
+                                            </li>
+                                                                                    <li>
+                                                <a href="/directory/game/wlrm" title="网络热门"
+                                                    >
+                                                    网络热门                                                </a>
+                                            </li>
+                                                                                    <li>
+                                                <a href="/directory/game/CIBN" title="CIBN"
+                                                    >
+                                                    CIBN                                                </a>
+                                            </li>
+                                                                                                                                                                <li>
+                                                <a href="/directory/category/dzh" class="more">全部&gt;&gt;</a>
+                                            </li>
+                                                                            </ul>
+                                </dd>
+                                        <!--列表-->
+                                                                    <dt  >
+                                    <a href="/directory/columnRoom/typd">
+                                        <i></i><span>体育频道</span>
+                                    </a>
+                                </dt>
+                                <dd class="hide">
+                                    <ul class="clearfix">
+                                                                                                                            <li>
+                                                <a href="/directory/game/CCTV5" title="体育频道"
+                                                    >
+                                                    体育频道                                                </a>
+                                            </li>
+                                                                                                                                                                <li>
+                                                <a href="/directory/category/typd" class="more">全部&gt;&gt;</a>
+                                            </li>
+                                                                            </ul>
+                                </dd>
+                                        <!--列表-->
+                                                                                                </dl>
+                        </div>
+                        <div class="r-cont recom-cont hide">
+                                                            <ul class="clearfix">
+                                                                            <li>
+                                            <a                                                title="赛事直播"
+                                               href="/directory/tag/%E8%B5%9B%E4%BA%8B%E7%9B%B4%E6%92%AD">
+                                                赛事直播                                            </a>
+                                        </li>
+                                                                            <li>
+                                            <a                                                title="颜值爆表"
+                                               href="/directory/tag/%E9%A2%9C%E5%80%BC%E7%88%86%E8%A1%A8">
+                                                颜值爆表                                            </a>
+                                        </li>
+                                                                            <li>
+                                            <a                                                title="游戏女神"
+                                               href="/directory/tag/%E6%B8%B8%E6%88%8F%E5%A5%B3%E7%A5%9E">
+                                                游戏女神                                            </a>
+                                        </li>
+                                                                            <li>
+                                            <a                                                title="新秀"
+                                               href="/directory/tag/%E6%96%B0%E7%A7%80">
+                                                新秀                                            </a>
+                                        </li>
+                                                                            <li>
+                                            <a                                                title="我是歌手"
+                                               href="/directory/tag/%E6%88%91%E6%98%AF%E6%AD%8C%E6%89%8B">
+                                                我是歌手                                            </a>
+                                        </li>
+                                                                            <li>
+                                            <a                                                title="音乐电台"
+                                               href="/directory/tag/%E9%9F%B3%E4%B9%90%E7%94%B5%E5%8F%B0">
+                                                音乐电台                                            </a>
+                                        </li>
+                                                                            <li>
+                                            <a                                                title="斗鱼声优"
+                                               href="/directory/tag/%E6%96%97%E9%B1%BC%E5%A3%B0%E4%BC%98">
+                                                斗鱼声优                                            </a>
+                                        </li>
+                                                                            <li>
+                                            <a                                                title="相声选手"
+                                               href="/directory/tag/%E7%9B%B8%E5%A3%B0%E9%80%89%E6%89%8B">
+                                                相声选手                                            </a>
+                                        </li>
+                                                                            <li>
+                                            <a                                                title="国服第一"
+                                               href="/directory/tag/%E5%9B%BD%E6%9C%8D%E7%AC%AC%E4%B8%80">
+                                                国服第一                                            </a>
+                                        </li>
+                                                                            <li>
+                                            <a                                                title="鲜肉直播"
+                                               href="/directory/tag/%E9%B2%9C%E8%82%89%E7%9B%B4%E6%92%AD">
+                                                鲜肉直播                                            </a>
+                                        </li>
+                                                                            <li>
+                                            <a                                                title="技术流"
+                                               href="/directory/tag/%E6%8A%80%E6%9C%AF%E6%B5%81">
+                                                技术流                                            </a>
+                                        </li>
+                                                                            <li>
+                                            <a                                                title="职业选手"
+                                               href="/directory/tag/%E8%81%8C%E4%B8%9A%E9%80%89%E6%89%8B">
+                                                职业选手                                            </a>
+                                        </li>
+                                                                            <li>
+                                            <a                                                title="御宅达人"
+                                               href="/directory/tag/%E5%BE%A1%E5%AE%85%E8%BE%BE%E4%BA%BA">
+                                                御宅达人                                            </a>
+                                        </li>
+                                                                            <li>
+                                            <a                                                title="二次元"
+                                               href="/directory/tag/%E4%BA%8C%E6%AC%A1%E5%85%83">
+                                                二次元                                            </a>
+                                        </li>
+                                                                            <li>
+                                            <a                                                title="域外风情"
+                                               href="/directory/tag/%E5%9F%9F%E5%A4%96%E9%A3%8E%E6%83%85">
+                                                域外风情                                            </a>
+                                        </li>
+                                                                            <li>
+                                            <a                                                title="卡牌竞技"
+                                               href="/directory/tag/%E5%8D%A1%E7%89%8C%E7%AB%9E%E6%8A%80">
+                                                卡牌竞技                                            </a>
+                                        </li>
+                                                                            <li>
+                                            <a                                                title="天梯冲击"
+                                               href="/directory/tag/%E5%A4%A9%E6%A2%AF%E5%86%B2%E5%87%BB">
+                                                天梯冲击                                            </a>
+                                        </li>
+                                                                            <li>
+                                            <a                                                title="上分达人"
+                                               href="/directory/tag/%E4%B8%8A%E5%88%86%E8%BE%BE%E4%BA%BA">
+                                                上分达人                                            </a>
+                                        </li>
+                                                                            <li>
+                                            <a                                                title="王者大腿"
+                                               href="/directory/tag/%E7%8E%8B%E8%80%85%E5%A4%A7%E8%85%BF">
+                                                王者大腿                                            </a>
+                                        </li>
+                                                                            <li>
+                                            <a                                                title="恐怖游戏"
+                                               href="/directory/tag/%E6%81%90%E6%80%96%E6%B8%B8%E6%88%8F">
+                                                恐怖游戏                                            </a>
+                                        </li>
+                                                                            <li>
+                                            <a                                                title="人在旅途"
+                                               href="/directory/tag/%E4%BA%BA%E5%9C%A8%E6%97%85%E9%80%94">
+                                                人在旅途                                            </a>
+                                        </li>
+                                                                    </ul>
+                                                    </div>
+                    </div>
+
+                    <!-- 导航最底部 -->
+                    <div class="left-footer">
+                        <p class="f-line"></p>
+
+                        <div class="btn-live">
+                            <a href="/" title="">
+                                <i class="icon icon-l"></i>
+                                <span>进入直播间</span>
+                                <i class="icon icon-r"></i>
+                            </a>
+                        </div>
+
+                        <ul class="f-other clearfix">
+                            <li>
+                                <a href="http://wpa.b.qq.com/cgi/wpa.php?ln=1&amp;key=XzgwMDA5MjU3MF8xNjQ1MDZfODAwMDkyNTcwXzJf" target="_blank" title="直播指导">直播指导</a>
+                            </li>
+                            <li>
+                                <a href="http://wpa.b.qq.com/cgi/wpa.php?ln=1&amp;key=XzgwMDA5MjU3MF8xNjQ1MDZfODAwMDkyNTcwXzJf" target="_blank" title="客服支持">客服支持</a>
+                            </li>
+                            <li>
+                                <a href="http://wpa.b.qq.com/cgi/wpa.php?ln=1&amp;key=XzgwMDA5MjU3MF8xNjQ1MDZfODAwMDkyNTcwXzJf" target="_blank" title="房间举报">房间举报</a>
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- 导航收起状态 -->
+    <div class="left-small">
+        <div class="small-nav">
+            <ul>
+                <li>
+                    <a href="/directory/all" title="直播"> <i class="icon is1"></i>
+                        <span>直播</span>
+                    </a>
+                </li>
+                <li class="line"></li>
+                <li>
+                    <a href="/directory" title="分类"> <i class="icon is2"></i>
+                        <span>分类</span>
+                    </a>
+                </li>
+                <li class="line"></li>
+                <li class="follow">
+                    <a href="#" title="关注">
+                        <i class="icon is3"></i>
+                        <span>关注</span>
+                    </a>
+                </li>
+                <li class="line"></li>
+                <li>
+                    <a title="娱乐" href="/directory/game_center">
+                        <i class="icon is4"></i>
+                        <span>娱乐</span>
+                    </a>
+                </li>
+                <li class="line"></li>
+            </ul>
+
+            <div class="c-ser">
+                <p class="line"></p>
+                <div class="c-link">
+                    <a href="http://wpa.b.qq.com/cgi/wpa.php?ln=1&key=XzgwMDA5MjU3MF8xNjQ1MDFfODAwMDkyNTcwXzJf" target="_blank" title="客服">
+                        <i class="cr_icon"></i>
+                        <span>客服</span>
+                    </a>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+        <div id="mainbody">
+
+            <div class="expand-right column" id="main-col">
+                <div class="content allList-cont">
+                    <div class="tse-content padding-left0 padding-right0">
+                        <!-- web直播页广告位 -->
+                                                <!--新秀换一换开始-->
+                                                                                    <div class="player-column">
+                                    <div class="editable editable01">
+                                        <div class="info padding-left0">
+                                            <div class="title">
+                                                <div class="real-title js-title real-dycj fl starlet">新秀直播</div>
+                                                <div class="changeone fl" id="change-live-new-show">换一换</div>
+                                            </div>
+                                            <div class="titlebotborder">
+                                                <div class="border1"></div>
+                                                <div class="border2"></div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="items items01 new-show-live clearfix">
+                                        <ul id="live-new-show-content-box" class="clearfix play-list">
+                                                    <li >
+            <a href="/336370" title="AJ小安：在歌声中团圆~汤圆节快乐！">
+                <span class="imgbox">                    <b></b>
+                                        <i class="black"></i>
+                    <img data-original="http://rpic.douyucdn.cn/z1602/22/21/336370_160222213045.jpg" src="http://shark.douyucdn.cn/app/douyu/res/page/list-item-def-thumb.gif" width="283" height="163">
+                </span>
+
+                <div class="mes">
+                    <div class="mes-tit">
+                        <h3 class="ellipsis">AJ小安：在歌声中团圆~汤圆节快乐！</h3>
+                        <span class="tag ellipsis">鱼音绕梁</span>
+                    </div>
+                    <p>
+                        <span class="dy-name ellipsis fl">angelAJ</span>
+                                            </p>
+                </div>
+            </a>
+        </li>
+                <li >
+            <a href="/244735" title="少侠杰：主播划水不用桨">
+                <span class="imgbox">                    <b></b>
+                                        <i class="black"></i>
+                    <img data-original="http://rpic.douyucdn.cn/z1602/22/21/244735_160222212710.jpg" src="http://shark.douyucdn.cn/app/douyu/res/page/list-item-def-thumb.gif" width="283" height="163">
+                </span>
+
+                <div class="mes">
+                    <div class="mes-tit">
+                        <h3 class="ellipsis">少侠杰：主播划水不用桨</h3>
+                        <span class="tag ellipsis">小鲜肉</span>
+                    </div>
+                    <p>
+                        <span class="dy-name ellipsis fl">lejsldllhlhh</span>
+                                            </p>
+                </div>
+            </a>
+        </li>
+                <li >
+            <a href="/222105" title="舰C活动E1寻找大屁股中【电竞孙楠】">
+                <span class="imgbox">                    <b></b>
+                                        <i class="black"></i>
+                    <img data-original="http://rpic.douyucdn.cn/z1602/22/21/222105_160222213237.jpg" src="http://shark.douyucdn.cn/app/douyu/res/page/list-item-def-thumb.gif" width="283" height="163">
+                </span>
+
+                <div class="mes">
+                    <div class="mes-tit">
+                        <h3 class="ellipsis">舰C活动E1寻找大屁股中【电竞孙楠】</h3>
+                        <span class="tag ellipsis">综合手游</span>
+                    </div>
+                    <p>
+                        <span class="dy-name ellipsis fl">神界的阿金</span>
+                                            </p>
+                </div>
+            </a>
+        </li>
+                <li class="last">
+            <a href="/13226" title="黑白玄烨：新年登高下午三点开播">
+                <span class="imgbox">                    <b></b>
+                                        <i class="black"></i>
+                    <img data-original="http://rpic.douyucdn.cn/z1602/22/21/13226_160222211803.jpg" src="http://shark.douyucdn.cn/app/douyu/res/page/list-item-def-thumb.gif" width="283" height="163">
+                </span>
+
+                <div class="mes">
+                    <div class="mes-tit">
+                        <h3 class="ellipsis">黑白玄烨：新年登高下午三点开播</h3>
+                        <span class="tag ellipsis">桌游密室</span>
+                    </div>
+                    <p>
+                        <span class="dy-name ellipsis fl">黑白玄烨</span>
+                                            </p>
+                </div>
+            </a>
+        </li>
+                <li >
+            <a href="/thp" title="【THP】老铁：元宵节，我与你们同在">
+                <span class="imgbox">                    <b></b>
+                                        <i class="black"></i>
+                    <img data-original="http://rpic.douyucdn.cn/z1602/22/21/201321_160222212650.jpg" src="http://shark.douyucdn.cn/app/douyu/res/page/list-item-def-thumb.gif" width="283" height="163">
+                </span>
+
+                <div class="mes">
+                    <div class="mes-tit">
+                        <h3 class="ellipsis">【THP】老铁：元宵节，我与你们同在</h3>
+                        <span class="tag ellipsis">战争雷霆</span>
+                    </div>
+                    <p>
+                        <span class="dy-name ellipsis fl">THP老铁</span>
+                                            </p>
+                </div>
+            </a>
+        </li>
+                <li >
+            <a href="/lvchadi" title="[老吕]我买了草席子味的饮料！">
+                <span class="imgbox">                    <b></b>
+                                        <i class="black"></i>
+                    <img data-original="http://rpic.douyucdn.cn/z1602/22/21/41054_160222213000.jpg" src="http://shark.douyucdn.cn/app/douyu/res/page/list-item-def-thumb.gif" width="283" height="163">
+                </span>
+
+                <div class="mes">
+                    <div class="mes-tit">
+                        <h3 class="ellipsis">[老吕]我买了草席子味的饮料！</h3>
+                        <span class="tag ellipsis">梦幻西游手游</span>
+                    </div>
+                    <p>
+                        <span class="dy-name ellipsis fl">吕插地</span>
+                                            </p>
+                </div>
+            </a>
+        </li>
+                                                </ul>
+                                    </div>
+                                </div>
+                                                                            <!--新秀结束-->
+                        <div class="player-column player_zb">
+                            <div class="editable editable01 broadcast-meta margin-top6">
+                                <div class="info padding-left0">
+                                    <div class="title">
+                                        <div class="real-title js-title alllive">
+                                            在线直播                                        </div>
+
+                                                                                <div class="classify_li">
+                                            <ul>
+                                                                                                <li>
+                                                    <a href="#" data-href="/directory/all"
+                                                       class="lihover"
+                                                       data-pagecount="27"
+                                                       data-live-list-type="all">
+                                                        全部
+                                                    </a>
+                                                </li>
+                                                                                                    <li>
+                                                    <a href="#"
+                                                       data-href="/directory/columnRoom/game"
+                                                       class=""
+                                                       data-pagecount="22"
+                                                       data-live-list-type="">
+                                                        游戏                                                    </a>
+                                                </li>
+                                                                                                    <li>
+                                                    <a href="#"
+                                                       data-href="/directory/columnRoom/sjyx"
+                                                       class=""
+                                                       data-pagecount="2"
+                                                       data-live-list-type="">
+                                                        手机游戏                                                    </a>
+                                                </li>
+                                                                                                    <li>
+                                                    <a href="#"
+                                                       data-href="/directory/columnRoom/ylxtd"
+                                                       class=""
+                                                       data-pagecount="4"
+                                                       data-live-list-type="">
+                                                        鱼乐星天地                                                    </a>
+                                                </li>
+                                                                                                    <li>
+                                                    <a href="#"
+                                                       data-href="/directory/columnRoom/yx"
+                                                       class=""
+                                                       data-pagecount="1"
+                                                       data-live-list-type="">
+                                                        鱼秀                                                    </a>
+                                                </li>
+                                                                                                    <li>
+                                                    <a href="#"
+                                                       data-href="/directory/columnRoom/ywkj"
+                                                       class=""
+                                                       data-pagecount="1"
+                                                       data-live-list-type="">
+                                                        鱼玩科技                                                    </a>
+                                                </li>
+                                                                                                    <li>
+                                                    <a href="#"
+                                                       data-href="/directory/columnRoom/typd"
+                                                       class=""
+                                                       data-pagecount="1"
+                                                       data-live-list-type="">
+                                                        体育频道                                                    </a>
+                                                </li>
+                                                                                                    <li>
+                                                    <a href="#"
+                                                       data-href="/directory/columnRoom/dzh"
+                                                       class=""
+                                                       data-pagecount="1"
+                                                       data-live-list-type="">
+                                                        大杂烩                                                    </a>
+                                                </li>
+                                                                                                                                                </ul>
+                                                                                </div>
+                                        <div class="titlebotborder">
+                                            <div class="border1"></div>
+                                            <div class="border2"></div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+
+                                                            <div id="live-list-content" class="items items01 item-data clearfix">
+                                    <ul id="live-list-contentbox" class="clearfix play-list">
+                                                                                            <li >
+            <a href="/wt55kai" title="White55开 元宵节快乐宝宝们么么哒">
+                <span class="imgbox">                    <b></b>
+                                        <i class="black"></i>
+                    <img data-original="http://rpic.douyucdn.cn/z1602/22/21/138286_160222212629.jpg" src="http://shark.douyucdn.cn/app/douyu/res/page/list-item-def-thumb.gif" width="283" height="163">
+                </span>
+
+                <div class="mes">
+                    <div class="mes-tit">
+                        <h3 class="ellipsis">White55开 元宵节快乐宝宝们么么哒</h3>
+                        <span class="tag ellipsis">英雄联盟</span>
+                    </div>
+                    <p>
+                        <span class="dy-name ellipsis fl">White55开解说</span>
+                                                <span class="dy-num fr">255万</span>
+                                            </p>
+                </div>
+            </a>
+        </li>
+                <li >
+            <a href="/58428" title="yyf直播间  电子竞技只有锤！">
+                <span class="imgbox">                    <b></b>
+                                        <i class="black"></i>
+                    <img data-original="http://rpic.douyucdn.cn/z1602/22/21/58428_160222212238.jpg" src="http://shark.douyucdn.cn/app/douyu/res/page/list-item-def-thumb.gif" width="283" height="163">
+                </span>
+
+                <div class="mes">
+                    <div class="mes-tit">
+                        <h3 class="ellipsis">yyf直播间  电子竞技只有锤！</h3>
+                        <span class="tag ellipsis">DOTA2</span>
+                    </div>
+                    <p>
+                        <span class="dy-name ellipsis fl">yyfyyf</span>
+                                                <span class="dy-num fr">65.9万</span>
+                                            </p>
+                </div>
+            </a>
+        </li>
+                <li >
+            <a href="/301712" title="阿怡：元宵节快乐王者单排">
+                <span class="imgbox">                    <b></b>
+                                        <i class="black"></i>
+                    <img data-original="http://rpic.douyucdn.cn/z1602/22/21/301712_160222213208.jpg" src="http://shark.douyucdn.cn/app/douyu/res/page/list-item-def-thumb.gif" width="283" height="163">
+                </span>
+
+                <div class="mes">
+                    <div class="mes-tit">
+                        <h3 class="ellipsis">阿怡：元宵节快乐王者单排</h3>
+                        <span class="tag ellipsis">英雄联盟</span>
+                    </div>
+                    <p>
+                        <span class="dy-name ellipsis fl">阿怡大小姐丶</span>
+                                                <span class="dy-num fr">53.7万</span>
+                                            </p>
+                </div>
+            </a>
+        </li>
+                <li class="last">
+            <a href="/Princess" title="怀旧向！童年烂大街神曲(全国都在放和唱)">
+                <span class="imgbox">                    <b></b>
+                                        <i class="black"></i>
+                    <img data-original="http://rpic.douyucdn.cn/z1602/22/21/2073_160222213230.jpg" src="http://shark.douyucdn.cn/app/douyu/res/page/list-item-def-thumb.gif" width="283" height="163">
+                </span>
+
+                <div class="mes">
+                    <div class="mes-tit">
+                        <h3 class="ellipsis">怀旧向！童年烂大街神曲(全国都在放和唱)</h3>
+                        <span class="tag ellipsis">Music+</span>
+                    </div>
+                    <p>
+                        <span class="dy-name ellipsis fl">傲天皇妃sama</span>
+                                                <span class="dy-num fr">43万</span>
+                                            </p>
+                </div>
+            </a>
+        </li>
+                <li >
+            <a href="/qiuri" title="大家元宵快乐~~">
+                <span class="imgbox">                    <b></b>
+                                        <i class="black"></i>
+                    <img data-original="http://rpic.douyucdn.cn/z1602/22/21/25515_160222212629.jpg" src="http://shark.douyucdn.cn/app/douyu/res/page/list-item-def-thumb.gif" width="283" height="163">
+                </span>
+
+                <div class="mes">
+                    <div class="mes-tit">
+                        <h3 class="ellipsis">大家元宵快乐~~</h3>
+                        <span class="tag ellipsis">炉石传说</span>
+                    </div>
+                    <p>
+                        <span class="dy-name ellipsis fl">秋日丶</span>
+                                                <span class="dy-num fr">41.3万</span>
+                                            </p>
+                </div>
+            </a>
+        </li>
+                <li >
+            <a href="/dushuren" title="誓约 大号冲分">
+                <span class="imgbox">                    <b></b>
+                                        <i class="black"></i>
+                    <img data-original="http://rpic.douyucdn.cn/z1602/22/21/319538_160222213158.jpg" src="http://shark.douyucdn.cn/app/douyu/res/page/list-item-def-thumb.gif" width="283" height="163">
+                </span>
+
+                <div class="mes">
+                    <div class="mes-tit">
+                        <h3 class="ellipsis">誓约 大号冲分</h3>
+                        <span class="tag ellipsis">英雄联盟</span>
+                    </div>
+                    <p>
+                        <span class="dy-name ellipsis fl">誓约中二约</span>
+                                                <span class="dy-num fr">26.2万</span>
+                                            </p>
+                </div>
+            </a>
+        </li>
+                <li >
+            <a href="/217785" title="国服盲僧我认第二,  谁敢认第一,?">
+                <span class="imgbox">                    <b></b>
+                                        <i class="black"></i>
+                    <img data-original="http://rpic.douyucdn.cn/z1602/22/21/217785_160222211756.jpg" src="http://shark.douyucdn.cn/app/douyu/res/page/list-item-def-thumb.gif" width="283" height="163">
+                </span>
+
+                <div class="mes">
+                    <div class="mes-tit">
+                        <h3 class="ellipsis">国服盲僧我认第二,  谁敢认第一,?</h3>
+                        <span class="tag ellipsis">英雄联盟</span>
+                    </div>
+                    <p>
+                        <span class="dy-name ellipsis fl">Night丶杀神风</span>
+                                                <span class="dy-num fr">25.8万</span>
+                                            </p>
+                </div>
+            </a>
+        </li>
+                <li class="last">
+            <a href="/93912" title="黑白锐雯,兄弟们元宵快乐！">
+                <span class="imgbox">                    <b></b>
+                                        <i class="black"></i>
+                    <img data-original="http://rpic.douyucdn.cn/z1602/22/21/93912_160222212703.jpg" src="http://shark.douyucdn.cn/app/douyu/res/page/list-item-def-thumb.gif" width="283" height="163">
+                </span>
+
+                <div class="mes">
+                    <div class="mes-tit">
+                        <h3 class="ellipsis">黑白锐雯,兄弟们元宵快乐！</h3>
+                        <span class="tag ellipsis">英雄联盟</span>
+                    </div>
+                    <p>
+                        <span class="dy-name ellipsis fl">黑白锐雯</span>
+                                                <span class="dy-num fr">21.9万</span>
+                                            </p>
+                </div>
+            </a>
+        </li>
+                <li >
+            <a href="/266055" title="酥酥：人美声甜胸大腰细">
+                <span class="imgbox">                    <b></b>
+                                        <i class="black"></i>
+                    <img data-original="http://rpic.douyucdn.cn/z1602/22/21/266055_160222212729.jpg" src="http://shark.douyucdn.cn/app/douyu/res/page/list-item-def-thumb.gif" width="283" height="163">
+                </span>
+
+                <div class="mes">
+                    <div class="mes-tit">
+                        <h3 class="ellipsis">酥酥：人美声甜胸大腰细</h3>
+                        <span class="tag ellipsis">英雄联盟</span>
+                    </div>
+                    <p>
+                        <span class="dy-name ellipsis fl">萌面酥</span>
+                                                <span class="dy-num fr">19.4万</span>
+                                            </p>
+                </div>
+            </a>
+        </li>
+                <li >
+            <a href="/JaneEyre" title="冬瓜德莱文：元宵节快乐">
+                <span class="imgbox">                    <b></b>
+                                        <i class="black"></i>
+                    <img data-original="http://rpic.douyucdn.cn/z1602/22/21/221895_160222213217.jpg" src="http://shark.douyucdn.cn/app/douyu/res/page/list-item-def-thumb.gif" width="283" height="163">
+                </span>
+
+                <div class="mes">
+                    <div class="mes-tit">
+                        <h3 class="ellipsis">冬瓜德莱文：元宵节快乐</h3>
+                        <span class="tag ellipsis">英雄联盟</span>
+                    </div>
+                    <p>
+                        <span class="dy-name ellipsis fl">会旋转的冬瓜</span>
+                                                <span class="dy-num fr">19.2万</span>
+                                            </p>
+                </div>
+            </a>
+        </li>
+                <li >
+            <a href="/539197" title="童颜巨乳小蛮腰 腹肌翘臀奶宝宝">
+                <span class="imgbox">                    <b></b>
+                                        <i class="black"></i>
+                    <img data-original="http://rpic.douyucdn.cn/z1602/22/21/539197_160222212625.jpg" src="http://shark.douyucdn.cn/app/douyu/res/page/list-item-def-thumb.gif" width="283" height="163">
+                </span>
+
+                <div class="mes">
+                    <div class="mes-tit">
+                        <h3 class="ellipsis">童颜巨乳小蛮腰 腹肌翘臀奶宝宝</h3>
+                        <span class="tag ellipsis">全民星秀</span>
+                    </div>
+                    <p>
+                        <span class="dy-name ellipsis fl">波比丶牛奶宝宝</span>
+                                                <span class="dy-num fr">24.4万</span>
+                                            </p>
+                </div>
+            </a>
+        </li>
+                <li class="last">
+            <a href="/LCS" title="英雄联盟LCS北美赛区正在直播">
+                <span class="imgbox">                    <b></b>
+                                        <i class="black"></i>
+                    <img data-original="http://rpic.douyucdn.cn/z1602/22/21/522424_160222212727.jpg" src="http://shark.douyucdn.cn/app/douyu/res/page/list-item-def-thumb.gif" width="283" height="163">
+                </span>
+
+                <div class="mes">
+                    <div class="mes-tit">
+                        <h3 class="ellipsis">英雄联盟LCS北美赛区正在直播</h3>
+                        <span class="tag ellipsis">英雄联盟</span>
+                    </div>
+                    <p>
+                        <span class="dy-name ellipsis fl">Riot丶LCS</span>
+                                                <span class="dy-num fr">17.8万</span>
+                                            </p>
+                </div>
+            </a>
+        </li>
+                <li >
+            <a href="/251785" title="单人影：练练英雄">
+                <span class="imgbox">                    <b></b>
+                                        <i class="black"></i>
+                    <img data-original="http://rpic.douyucdn.cn/z1602/22/21/251785_160222212741.jpg" src="http://shark.douyucdn.cn/app/douyu/res/page/list-item-def-thumb.gif" width="283" height="163">
+                </span>
+
+                <div class="mes">
+                    <div class="mes-tit">
+                        <h3 class="ellipsis">单人影：练练英雄</h3>
+                        <span class="tag ellipsis">英雄联盟</span>
+                    </div>
+                    <p>
+                        <span class="dy-name ellipsis fl">單人影</span>
+                                                <span class="dy-num fr">16.1万</span>
+                                            </p>
+                </div>
+            </a>
+        </li>
+                <li >
+            <a href="/qgdoinb" title="doubi老司机没有乘客。谁要上车！来来">
+                <span class="imgbox">                    <b></b>
+                                        <i class="black"></i>
+                    <img data-original="http://rpic.douyucdn.cn/z1602/22/21/252140_160222212554.jpg" src="http://shark.douyucdn.cn/app/douyu/res/page/list-item-def-thumb.gif" width="283" height="163">
+                </span>
+
+                <div class="mes">
+                    <div class="mes-tit">
+                        <h3 class="ellipsis">doubi老司机没有乘客。谁要上车！来来</h3>
+                        <span class="tag ellipsis">英雄联盟</span>
+                    </div>
+                    <p>
+                        <span class="dy-name ellipsis fl">qgdoinb</span>
+                                                <span class="dy-num fr">14.5万</span>
+                                            </p>
+                </div>
+            </a>
+        </li>
+                <li >
+            <a href="/gouzei" title="狗贼：正统标准版提速壕战帮媳妇上个传说">
+                <span class="imgbox">                    <b></b>
+                                        <i class="black"></i>
+                    <img data-original="http://rpic.douyucdn.cn/z1602/22/21/208114_160222213217.jpg" src="http://shark.douyucdn.cn/app/douyu/res/page/list-item-def-thumb.gif" width="283" height="163">
+                </span>
+
+                <div class="mes">
+                    <div class="mes-tit">
+                        <h3 class="ellipsis">狗贼：正统标准版提速壕战帮媳妇上个传说</h3>
+                        <span class="tag ellipsis">炉石传说</span>
+                    </div>
+                    <p>
+                        <span class="dy-name ellipsis fl">恩基爱萌萌哒的狗贼</span>
+                                                <span class="dy-num fr">14.1万</span>
+                                            </p>
+                </div>
+            </a>
+        </li>
+                <li class="last">
+            <a href="/67095" title="【AJ】GTA5元宵快乐！今天你开心了吗">
+                <span class="imgbox">                    <b></b>
+                                        <i class="black"></i>
+                    <img data-original="http://rpic.douyucdn.cn/z1602/22/21/67095_160222212706.jpg" src="http://shark.douyucdn.cn/app/douyu/res/page/list-item-def-thumb.gif" width="283" height="163">
+                </span>
+
+                <div class="mes">
+                    <div class="mes-tit">
+                        <h3 class="ellipsis">【AJ】GTA5元宵快乐！今天你开心了吗</h3>
+                        <span class="tag ellipsis">主机游戏</span>
+                    </div>
+                    <p>
+                        <span class="dy-name ellipsis fl">主播AJ</span>
+                                                <span class="dy-num fr">12.7万</span>
+                                            </p>
+                </div>
+            </a>
+        </li>
+                <li >
+            <a href="/yilidi" title="我只想上个传说= =">
+                <span class="imgbox">                    <b></b>
+                                        <i class="black"></i>
+                    <img data-original="http://rpic.douyucdn.cn/z1602/22/21/9401_160222212744.jpg" src="http://shark.douyucdn.cn/app/douyu/res/page/list-item-def-thumb.gif" width="283" height="163">
+                </span>
+
+                <div class="mes">
+                    <div class="mes-tit">
+                        <h3 class="ellipsis">我只想上个传说= =</h3>
+                        <span class="tag ellipsis">炉石传说</span>
+                    </div>
+                    <p>
+                        <span class="dy-name ellipsis fl">中华毅力帝</span>
+                                                <span class="dy-num fr">12.7万</span>
+                                            </p>
+                </div>
+            </a>
+        </li>
+                <li >
+            <a href="/287471" title="一个老直播间，一个老游戏">
+                <span class="imgbox">                    <b></b>
+                                        <i class="black"></i>
+                    <img data-original="http://rpic.douyucdn.cn/z1602/22/21/287471_160222213143.jpg" src="http://shark.douyucdn.cn/app/douyu/res/page/list-item-def-thumb.gif" width="283" height="163">
+                </span>
+
+                <div class="mes">
+                    <div class="mes-tit">
+                        <h3 class="ellipsis">一个老直播间，一个老游戏</h3>
+                        <span class="tag ellipsis">主机游戏</span>
+                    </div>
+                    <p>
+                        <span class="dy-name ellipsis fl">阿科哥</span>
+                                                <span class="dy-num fr">12.5万</span>
+                                            </p>
+                </div>
+            </a>
+        </li>
+                <li >
+            <a href="/seoyoon" title="韩国美女主播 徐润福">
+                <span class="imgbox">                    <b></b>
+                                        <i class="black"></i>
+                    <img data-original="http://rpic.douyucdn.cn/z1602/22/21/471397_160222213033.jpg" src="http://shark.douyucdn.cn/app/douyu/res/page/list-item-def-thumb.gif" width="283" height="163">
+                </span>
+
+                <div class="mes">
+                    <div class="mes-tit">
+                        <h3 class="ellipsis">韩国美女主播 徐润福</h3>
+                        <span class="tag ellipsis">鱼行天下</span>
+                    </div>
+                    <p>
+                        <span class="dy-name ellipsis fl">xurunfu</span>
+                                                <span class="dy-num fr">12.1万</span>
+                                            </p>
+                </div>
+            </a>
+        </li>
+                <li class="last">
+            <a href="/gd008" title="东北大鹌鹑 寒冰一出 从不认输 到家了吧">
+                <span class="imgbox">                    <b></b>
+                                        <i class="black"></i>
+                    <img data-original="http://rpic.douyucdn.cn/z1602/22/21/96291_160222212230.jpg" src="http://shark.douyucdn.cn/app/douyu/res/page/list-item-def-thumb.gif" width="283" height="163">
+                </span>
+
+                <div class="mes">
+                    <div class="mes-tit">
+                        <h3 class="ellipsis">东北大鹌鹑 寒冰一出 从不认输 到家了吧</h3>
+                        <span class="tag ellipsis">英雄联盟</span>
+                    </div>
+                    <p>
+                        <span class="dy-name ellipsis fl">东北大鹌鹑</span>
+                                                <span class="dy-num fr">11.3万</span>
+                                            </p>
+                </div>
+            </a>
+        </li>
+                <li >
+            <a href="/107053" title="【冷寨主】起手基本靠吼！输出基本靠抖！">
+                <span class="imgbox">                    <b></b>
+                                        <i class="black"></i>
+                    <img data-original="http://rpic.douyucdn.cn/z1602/22/21/107053_160222213231.jpg" src="http://shark.douyucdn.cn/app/douyu/res/page/list-item-def-thumb.gif" width="283" height="163">
+                </span>
+
+                <div class="mes">
+                    <div class="mes-tit">
+                        <h3 class="ellipsis">【冷寨主】起手基本靠吼！输出基本靠抖！</h3>
+                        <span class="tag ellipsis">地下城与勇士</span>
+                    </div>
+                    <p>
+                        <span class="dy-name ellipsis fl">dnf冷寨主</span>
+                                                <span class="dy-num fr">11.3万</span>
+                                            </p>
+                </div>
+            </a>
+        </li>
+                <li >
+            <a href="/hinako" title="?马里奥治愈?今天送巨无霸四驱车！">
+                <span class="imgbox">                    <b></b>
+                                        <i class="black"></i>
+                    <img data-original="http://rpic.douyucdn.cn/z1602/22/21/209436_160222212645.jpg" src="http://shark.douyucdn.cn/app/douyu/res/page/list-item-def-thumb.gif" width="283" height="163">
+                </span>
+
+                <div class="mes">
+                    <div class="mes-tit">
+                        <h3 class="ellipsis">?马里奥治愈?今天送巨无霸四驱车！</h3>
+                        <span class="tag ellipsis">主机游戏</span>
+                    </div>
+                    <p>
+                        <span class="dy-name ellipsis fl">竹内條條</span>
+                                                <span class="dy-num fr">11.2万</span>
+                                            </p>
+                </div>
+            </a>
+        </li>
+                <li >
+            <a href="/85829" title="日常卖串正月十五，明天星期二">
+                <span class="imgbox">                    <b></b>
+                                        <i class="black"></i>
+                    <img data-original="http://rpic.douyucdn.cn/z1602/22/21/85829_160222212229.jpg" src="http://shark.douyucdn.cn/app/douyu/res/page/list-item-def-thumb.gif" width="283" height="163">
+                </span>
+
+                <div class="mes">
+                    <div class="mes-tit">
+                        <h3 class="ellipsis">日常卖串正月十五，明天星期二</h3>
+                        <span class="tag ellipsis">元气领域</span>
+                    </div>
+                    <p>
+                        <span class="dy-name ellipsis fl">prick丶sky</span>
+                                                <span class="dy-num fr">11.1万</span>
+                                            </p>
+                </div>
+            </a>
+        </li>
+                <li class="last">
+            <a href="/Yasuoking" title="世界倒数第一亚索 1秒5E 补刀超越时间">
+                <span class="imgbox">                    <b></b>
+                                        <i class="black"></i>
+                    <img data-original="http://rpic.douyucdn.cn/z1602/22/21/79471_160222212742.jpg" src="http://shark.douyucdn.cn/app/douyu/res/page/list-item-def-thumb.gif" width="283" height="163">
+                </span>
+
+                <div class="mes">
+                    <div class="mes-tit">
+                        <h3 class="ellipsis">世界倒数第一亚索 1秒5E 补刀超越时间</h3>
+                        <span class="tag ellipsis">英雄联盟</span>
+                    </div>
+                    <p>
+                        <span class="dy-name ellipsis fl">lol二弟托儿索</span>
+                                                <span class="dy-num fr">10.6万</span>
+                                            </p>
+                </div>
+            </a>
+        </li>
+                <li >
+            <a href="/73966" title="LGD.Maybe单排">
+                <span class="imgbox">                    <b></b>
+                                        <i class="black"></i>
+                    <img data-original="http://rpic.douyucdn.cn/z1602/22/21/73966_160222212233.jpg" src="http://shark.douyucdn.cn/app/douyu/res/page/list-item-def-thumb.gif" width="283" height="163">
+                </span>
+
+                <div class="mes">
+                    <div class="mes-tit">
+                        <h3 class="ellipsis">LGD.Maybe单排</h3>
+                        <span class="tag ellipsis">DOTA2</span>
+                    </div>
+                    <p>
+                        <span class="dy-name ellipsis fl">CDEC_Maybe</span>
+                                                <span class="dy-num fr">9.9万</span>
+                                            </p>
+                </div>
+            </a>
+        </li>
+                <li >
+            <a href="/312410" title="最详细JJC解说~">
+                <span class="imgbox">                    <b></b>
+                                        <i class="black"></i>
+                    <img data-original="http://rpic.douyucdn.cn/z1602/22/21/312410_160222212724.jpg" src="http://shark.douyucdn.cn/app/douyu/res/page/list-item-def-thumb.gif" width="283" height="163">
+                </span>
+
+                <div class="mes">
+                    <div class="mes-tit">
+                        <h3 class="ellipsis">最详细JJC解说~</h3>
+                        <span class="tag ellipsis">炉石传说</span>
+                    </div>
+                    <p>
+                        <span class="dy-name ellipsis fl">炉石丶春哥</span>
+                                                <span class="dy-num fr">9万</span>
+                                            </p>
+                </div>
+            </a>
+        </li>
+                <li >
+            <a href="/chibang" title="翅:元宵节快乐!天空,盒子,强化搞起~">
+                <span class="imgbox">                    <b></b>
+                                        <i class="black"></i>
+                    <img data-original="http://rpic.douyucdn.cn/z1602/22/21/28101_160222212720.jpg" src="http://shark.douyucdn.cn/app/douyu/res/page/list-item-def-thumb.gif" width="283" height="163">
+                </span>
+
+                <div class="mes">
+                    <div class="mes-tit">
+                        <h3 class="ellipsis">翅:元宵节快乐!天空,盒子,强化搞起~</h3>
+                        <span class="tag ellipsis">地下城与勇士</span>
+                    </div>
+                    <p>
+                        <span class="dy-name ellipsis fl">云彩上的翅膀</span>
+                                                <span class="dy-num fr">8.5万</span>
+                                            </p>
+                </div>
+            </a>
+        </li>
+                <li class="last">
+            <a href="/315449" title="Jackey德莱文...无穷无尽的排队!">
+                <span class="imgbox">                    <b></b>
+                                        <i class="black"></i>
+                    <img data-original="http://rpic.douyucdn.cn/z1602/22/21/315449_160222212741.jpg" src="http://shark.douyucdn.cn/app/douyu/res/page/list-item-def-thumb.gif" width="283" height="163">
+                </span>
+
+                <div class="mes">
+                    <div class="mes-tit">
+                        <h3 class="ellipsis">Jackey德莱文...无穷无尽的排队!</h3>
+                        <span class="tag ellipsis">英雄联盟</span>
+                    </div>
+                    <p>
+                        <span class="dy-name ellipsis fl">JackeyLove</span>
+                                                <span class="dy-num fr">8.4万</span>
+                                            </p>
+                </div>
+            </a>
+        </li>
+                <li >
+            <a href="/277970" title="妖精少女组合 汉服穿越闹元宵">
+                <span class="imgbox">                    <b></b>
+                                        <i class="black"></i>
+                    <img data-original="http://rpic.douyucdn.cn/z1602/22/21/277970_160222213025.jpg" src="http://shark.douyucdn.cn/app/douyu/res/page/list-item-def-thumb.gif" width="283" height="163">
+                </span>
+
+                <div class="mes">
+                    <div class="mes-tit">
+                        <h3 class="ellipsis">妖精少女组合 汉服穿越闹元宵</h3>
+                        <span class="tag ellipsis">元气领域</span>
+                    </div>
+                    <p>
+                        <span class="dy-name ellipsis fl">妖精少女组合</span>
+                                                <span class="dy-num fr">8.1万</span>
+                                            </p>
+                </div>
+            </a>
+        </li>
+                <li >
+            <a href="/71320" title="腰子带你们毁灭童年记忆">
+                <span class="imgbox">                    <b></b>
+                                        <i class="black"></i>
+                    <img data-original="http://rpic.douyucdn.cn/z1602/22/21/71320_160222211816.jpg" src="http://shark.douyucdn.cn/app/douyu/res/page/list-item-def-thumb.gif" width="283" height="163">
+                </span>
+
+                <div class="mes">
+                    <div class="mes-tit">
+                        <h3 class="ellipsis">腰子带你们毁灭童年记忆</h3>
+                        <span class="tag ellipsis">怀旧游戏</span>
+                    </div>
+                    <p>
+                        <span class="dy-name ellipsis fl">坑爹大队丶塔山</span>
+                                                <span class="dy-num fr">1.2万</span>
+                                            </p>
+                </div>
+            </a>
+        </li>
+                <li >
+            <a href="/suxiaoyan" title="苏小妍：定级赛最后几盘~">
+                <span class="imgbox">                    <b></b>
+                                        <i class="black"></i>
+                    <img data-original="http://rpic.douyucdn.cn/z1602/22/21/286606_160222212737.jpg" src="http://shark.douyucdn.cn/app/douyu/res/page/list-item-def-thumb.gif" width="283" height="163">
+                </span>
+
+                <div class="mes">
+                    <div class="mes-tit">
+                        <h3 class="ellipsis">苏小妍：定级赛最后几盘~</h3>
+                        <span class="tag ellipsis">英雄联盟</span>
+                    </div>
+                    <p>
+                        <span class="dy-name ellipsis fl">TiramisuYan</span>
+                                                <span class="dy-num fr">7.3万</span>
+                                            </p>
+                </div>
+            </a>
+        </li>
+                <li class="last">
+            <a href="/LGDGameing" title="TBQ 新年过去。新的开始">
+                <span class="imgbox">                    <b></b>
+                                        <i class="black"></i>
+                    <img data-original="http://rpic.douyucdn.cn/z1602/22/21/22519_160222213228.jpg" src="http://shark.douyucdn.cn/app/douyu/res/page/list-item-def-thumb.gif" width="283" height="163">
+                </span>
+
+                <div class="mes">
+                    <div class="mes-tit">
+                        <h3 class="ellipsis">TBQ 新年过去。新的开始</h3>
+                        <span class="tag ellipsis">英雄联盟</span>
+                    </div>
+                    <p>
+                        <span class="dy-name ellipsis fl">junge_qq</span>
+                                                <span class="dy-num fr">7.1万</span>
+                                            </p>
+                </div>
+            </a>
+        </li>
+                <li >
+            <a href="/biaogedy" title="声优表：我的逗比你的开心！">
+                <span class="imgbox">                    <b></b>
+                                        <i class="black"></i>
+                    <img data-original="http://rpic.douyucdn.cn/z1602/22/21/217331_160222213229.jpg" src="http://shark.douyucdn.cn/app/douyu/res/page/list-item-def-thumb.gif" width="283" height="163">
+                </span>
+
+                <div class="mes">
+                    <div class="mes-tit">
+                        <h3 class="ellipsis">声优表：我的逗比你的开心！</h3>
+                        <span class="tag ellipsis">主机游戏</span>
+                    </div>
+                    <p>
+                        <span class="dy-name ellipsis fl">尐表哥</span>
+                                                <span class="dy-num fr">7万</span>
+                                            </p>
+                </div>
+            </a>
+        </li>
+                <li >
+            <a href="/501999" title="Moon War3 Stream ^-^">
+                <span class="imgbox">                    <b></b>
+                                        <i class="black"></i>
+                    <img data-original="http://rpic.douyucdn.cn/z1602/22/21/501999_160222213202.jpg" src="http://shark.douyucdn.cn/app/douyu/res/page/list-item-def-thumb.gif" width="283" height="163">
+                </span>
+
+                <div class="mes">
+                    <div class="mes-tit">
+                        <h3 class="ellipsis">Moon War3 Stream ^-^</h3>
+                        <span class="tag ellipsis">魔兽争霸</span>
+                    </div>
+                    <p>
+                        <span class="dy-name ellipsis fl">张宰怙Moon</span>
+                                                <span class="dy-num fr">6.8万</span>
+                                            </p>
+                </div>
+            </a>
+        </li>
+                <li >
+            <a href="/buuny" title="韩国美女主播：徐珍儿Bunny">
+                <span class="imgbox">                    <b></b>
+                                        <i class="black"></i>
+                    <img data-original="http://rpic.douyucdn.cn/z1602/22/21/316544_160222213240.jpg" src="http://shark.douyucdn.cn/app/douyu/res/page/list-item-def-thumb.gif" width="283" height="163">
+                </span>
+
+                <div class="mes">
+                    <div class="mes-tit">
+                        <h3 class="ellipsis">韩国美女主播：徐珍儿Bunny</h3>
+                        <span class="tag ellipsis">鱼行天下</span>
+                    </div>
+                    <p>
+                        <span class="dy-name ellipsis fl">xuzhener</span>
+                                                <span class="dy-num fr">6.8万</span>
+                                            </p>
+                </div>
+            </a>
+        </li>
+                <li class="last">
+            <a href="/mcshitou" title="MC石头：元宵快乐~！">
+                <span class="imgbox">                    <b></b>
+                                        <i class="black"></i>
+                    <img data-original="http://rpic.douyucdn.cn/z1602/22/21/326464_160222213125.jpg" src="http://shark.douyucdn.cn/app/douyu/res/page/list-item-def-thumb.gif" width="283" height="163">
+                </span>
+
+                <div class="mes">
+                    <div class="mes-tit">
+                        <h3 class="ellipsis">MC石头：元宵快乐~！</h3>
+                        <span class="tag ellipsis">鱼音绕梁</span>
+                    </div>
+                    <p>
+                        <span class="dy-name ellipsis fl">MC石头</span>
+                                                <span class="dy-num fr">1.6万</span>
+                                            </p>
+                </div>
+            </a>
+        </li>
+                <li >
+            <a href="/asen" title="【森】漫漫长夜，我到第二章啦">
+                <span class="imgbox">                    <b></b>
+                                        <i class="black"></i>
+                    <img data-original="http://rpic.douyucdn.cn/z1602/22/21/47227_160222212650.jpg" src="http://shark.douyucdn.cn/app/douyu/res/page/list-item-def-thumb.gif" width="283" height="163">
+                </span>
+
+                <div class="mes">
+                    <div class="mes-tit">
+                        <h3 class="ellipsis">【森】漫漫长夜，我到第二章啦</h3>
+                        <span class="tag ellipsis">主机游戏</span>
+                    </div>
+                    <p>
+                        <span class="dy-name ellipsis fl">我有上将潘森</span>
+                                                <span class="dy-num fr">6.4万</span>
+                                            </p>
+                </div>
+            </a>
+        </li>
+                <li >
+            <a href="/10903" title="我有两个大汤圆">
+                <span class="imgbox">                    <b></b>
+                                        <i class="black"></i>
+                    <img data-original="http://rpic.douyucdn.cn/z1602/22/21/10903_160222213231.jpg" src="http://shark.douyucdn.cn/app/douyu/res/page/list-item-def-thumb.gif" width="283" height="163">
+                </span>
+
+                <div class="mes">
+                    <div class="mes-tit">
+                        <h3 class="ellipsis">我有两个大汤圆</h3>
+                        <span class="tag ellipsis">全民星秀</span>
+                    </div>
+                    <p>
+                        <span class="dy-name ellipsis fl">七煌主持Mini</span>
+                                                <span class="dy-num fr">6.4万</span>
+                                            </p>
+                </div>
+            </a>
+        </li>
+                <li >
+            <a href="/dalicc" title="【最强小萝莉】:王者框再冲王者！">
+                <span class="imgbox">                    <b></b>
+                                        <i class="black"></i>
+                    <img data-original="http://rpic.douyucdn.cn/z1602/22/21/244036_160222213000.jpg" src="http://shark.douyucdn.cn/app/douyu/res/page/list-item-def-thumb.gif" width="283" height="163">
+                </span>
+
+                <div class="mes">
+                    <div class="mes-tit">
+                        <h3 class="ellipsis">【最强小萝莉】:王者框再冲王者！</h3>
+                        <span class="tag ellipsis">英雄联盟</span>
+                    </div>
+                    <p>
+                        <span class="dy-name ellipsis fl">大莉cc</span>
+                                                <span class="dy-num fr">1.9万</span>
+                                            </p>
+                </div>
+            </a>
+        </li>
+                <li class="last">
+            <a href="/531365" title="老吴斯诺克解说">
+                <span class="imgbox">                    <b></b>
+                                        <i class="black"></i>
+                    <img data-original="http://rpic.douyucdn.cn/z1602/22/21/531365_160222212239.jpg" src="http://shark.douyucdn.cn/app/douyu/res/page/list-item-def-thumb.gif" width="283" height="163">
+                </span>
+
+                <div class="mes">
+                    <div class="mes-tit">
+                        <h3 class="ellipsis">老吴斯诺克解说</h3>
+                        <span class="tag ellipsis">体育频道</span>
+                    </div>
+                    <p>
+                        <span class="dy-name ellipsis fl">罗尼香川</span>
+                                                <span class="dy-num fr">6868</span>
+                                            </p>
+                </div>
+            </a>
+        </li>
+                <li >
+            <a href="/chaoba" title="斗鱼林永健~。~">
+                <span class="imgbox">                    <b></b>
+                                        <i class="black"></i>
+                    <img data-original="http://rpic.douyucdn.cn/z1602/22/21/231516_160222212651.jpg" src="http://shark.douyucdn.cn/app/douyu/res/page/list-item-def-thumb.gif" width="283" height="163">
+                </span>
+
+                <div class="mes">
+                    <div class="mes-tit">
+                        <h3 class="ellipsis">斗鱼林永健~。~</h3>
+                        <span class="tag ellipsis">时尚制造</span>
+                    </div>
+                    <p>
+                        <span class="dy-name ellipsis fl">潮爸梁哥</span>
+                                                <span class="dy-num fr">7278</span>
+                                            </p>
+                </div>
+            </a>
+        </li>
+                <li >
+            <a href="/board" title="板：祝大家元宵快乐！">
+                <span class="imgbox">                    <b></b>
+                                        <i class="black"></i>
+                    <img data-original="http://rpic.douyucdn.cn/z1602/22/21/101342_160222212641.jpg" src="http://shark.douyucdn.cn/app/douyu/res/page/list-item-def-thumb.gif" width="283" height="163">
+                </span>
+
+                <div class="mes">
+                    <div class="mes-tit">
+                        <h3 class="ellipsis">板：祝大家元宵快乐！</h3>
+                        <span class="tag ellipsis">炉石传说</span>
+                    </div>
+                    <p>
+                        <span class="dy-name ellipsis fl">萌太奇5238</span>
+                                                <span class="dy-num fr">5.6万</span>
+                                            </p>
+                </div>
+            </a>
+        </li>
+                <li >
+            <a href="/xianer" title="仙儿：灵魂画师陪你元宵">
+                <span class="imgbox">                    <b></b>
+                                        <i class="black"></i>
+                    <img data-original="http://rpic.douyucdn.cn/z1602/22/21/241823_160222213233.jpg" src="http://shark.douyucdn.cn/app/douyu/res/page/list-item-def-thumb.gif" width="283" height="163">
+                </span>
+
+                <div class="mes">
+                    <div class="mes-tit">
+                        <h3 class="ellipsis">仙儿：灵魂画师陪你元宵</h3>
+                        <span class="tag ellipsis">全民星秀</span>
+                    </div>
+                    <p>
+                        <span class="dy-name ellipsis fl">七煌仙儿</span>
+                                                <span class="dy-num fr">5.5万</span>
+                                            </p>
+                </div>
+            </a>
+        </li>
+                <li class="last">
+            <a href="/6324" title="mata川：85288453灵堂K歌。！">
+                <span class="imgbox">                    <b></b>
+                                        <i class="black"></i>
+                    <img data-original="http://rpic.douyucdn.cn/z1602/22/21/6324_160222212601.jpg" src="http://shark.douyucdn.cn/app/douyu/res/page/list-item-def-thumb.gif" width="283" height="163">
+                </span>
+
+                <div class="mes">
+                    <div class="mes-tit">
+                        <h3 class="ellipsis">mata川：85288453灵堂K歌。！</h3>
+                        <span class="tag ellipsis">英雄联盟</span>
+                    </div>
+                    <p>
+                        <span class="dy-name ellipsis fl">抽象工作室upupup</span>
+                                                <span class="dy-num fr">5.5万</span>
+                                            </p>
+                </div>
+            </a>
+        </li>
+                <li >
+            <a href="/hayabusa" title="nada:超级重量级对黑">
+                <span class="imgbox">                    <b></b>
+                                        <i class="black"></i>
+                    <img data-original="http://rpic.douyucdn.cn/z1602/22/21/209225_160222212628.jpg" src="http://shark.douyucdn.cn/app/douyu/res/page/list-item-def-thumb.gif" width="283" height="163">
+                </span>
+
+                <div class="mes">
+                    <div class="mes-tit">
+                        <h3 class="ellipsis">nada:超级重量级对黑</h3>
+                        <span class="tag ellipsis">DOTA2</span>
+                    </div>
+                    <p>
+                        <span class="dy-name ellipsis fl">hayabusa_7</span>
+                                                <span class="dy-num fr">5.3万</span>
+                                            </p>
+                </div>
+            </a>
+        </li>
+                <li >
+            <a href="/CrazyWind" title="抽风crazy的直播间">
+                <span class="imgbox">                    <b></b>
+                                        <i class="black"></i>
+                    <img data-original="http://rpic.douyucdn.cn/z1602/22/21/16507_160222213228.jpg" src="http://shark.douyucdn.cn/app/douyu/res/page/list-item-def-thumb.gif" width="283" height="163">
+                </span>
+
+                <div class="mes">
+                    <div class="mes-tit">
+                        <h3 class="ellipsis">抽风crazy的直播间</h3>
+                        <span class="tag ellipsis">主机游戏</span>
+                    </div>
+                    <p>
+                        <span class="dy-name ellipsis fl">抽风crazy</span>
+                                                <span class="dy-num fr">5.3万</span>
+                                            </p>
+                </div>
+            </a>
+        </li>
+                <li >
+            <a href="/497549" title="会唱歌的小怪咖！元宵节快乐~">
+                <span class="imgbox">                    <b></b>
+                                        <i class="black"></i>
+                    <img data-original="http://rpic.douyucdn.cn/z1602/22/21/497549_160222212702.jpg" src="http://shark.douyucdn.cn/app/douyu/res/page/list-item-def-thumb.gif" width="283" height="163">
+                </span>
+
+                <div class="mes">
+                    <div class="mes-tit">
+                        <h3 class="ellipsis">会唱歌的小怪咖！元宵节快乐~</h3>
+                        <span class="tag ellipsis">Music+</span>
+                    </div>
+                    <p>
+                        <span class="dy-name ellipsis fl">何老师说</span>
+                                                <span class="dy-num fr">3672</span>
+                                            </p>
+                </div>
+            </a>
+        </li>
+                <li class="last">
+            <a href="/infiwang" title="今晚和蛋神网易平台天梯22！">
+                <span class="imgbox">                    <b></b>
+                                        <i class="black"></i>
+                    <img data-original="http://rpic.douyucdn.cn/z1602/22/21/255865_160222212705.jpg" src="http://shark.douyucdn.cn/app/douyu/res/page/list-item-def-thumb.gif" width="283" height="163">
+                </span>
+
+                <div class="mes">
+                    <div class="mes-tit">
+                        <h3 class="ellipsis">今晚和蛋神网易平台天梯22！</h3>
+                        <span class="tag ellipsis">魔兽争霸</span>
+                    </div>
+                    <p>
+                        <span class="dy-name ellipsis fl">Infi小王</span>
+                                                <span class="dy-num fr">5.3万</span>
+                                            </p>
+                </div>
+            </a>
+        </li>
+                <li >
+            <a href="/214514" title="加藤鹰:又大了一岁了,17岁了元宵快乐。">
+                <span class="imgbox">                    <b></b>
+                                        <i class="black"></i>
+                    <img data-original="http://rpic.douyucdn.cn/z1602/22/21/214514_160222213219.jpg" src="http://shark.douyucdn.cn/app/douyu/res/page/list-item-def-thumb.gif" width="283" height="163">
+                </span>
+
+                <div class="mes">
+                    <div class="mes-tit">
+                        <h3 class="ellipsis">加藤鹰:又大了一岁了,17岁了元宵快乐。</h3>
+                        <span class="tag ellipsis">穿越火线</span>
+                    </div>
+                    <p>
+                        <span class="dy-name ellipsis fl">214514加藤鹰</span>
+                                                <span class="dy-num fr">5.2万</span>
+                                            </p>
+                </div>
+            </a>
+        </li>
+                <li >
+            <a href="/442318" title="【月薇】超清剑网3,我是一只呆萌卡">
+                <span class="imgbox">                    <b></b>
+                                        <i class="black"></i>
+                    <img data-original="http://rpic.douyucdn.cn/z1602/22/21/442318_160222213105.jpg" src="http://shark.douyucdn.cn/app/douyu/res/page/list-item-def-thumb.gif" width="283" height="163">
+                </span>
+
+                <div class="mes">
+                    <div class="mes-tit">
+                        <h3 class="ellipsis">【月薇】超清剑网3,我是一只呆萌卡</h3>
+                        <span class="tag ellipsis">剑网3</span>
+                    </div>
+                    <p>
+                        <span class="dy-name ellipsis fl">蘫鳯蝶</span>
+                                                <span class="dy-num fr">1024</span>
+                                            </p>
+                </div>
+            </a>
+        </li>
+                <li >
+            <a href="/115554" title="《阿帽杯》每晚19：00开赛">
+                <span class="imgbox">                    <b></b>
+                                        <i class="black"></i>
+                    <img data-original="http://rpic.douyucdn.cn/z1602/22/21/115554_160222213250.jpg" src="http://shark.douyucdn.cn/app/douyu/res/page/list-item-def-thumb.gif" width="283" height="163">
+                </span>
+
+                <div class="mes">
+                    <div class="mes-tit">
+                        <h3 class="ellipsis">《阿帽杯》每晚19：00开赛</h3>
+                        <span class="tag ellipsis">怀旧游戏</span>
+                    </div>
+                    <p>
+                        <span class="dy-name ellipsis fl">douyuTV丶帽哥</span>
+                                                <span class="dy-num fr">7406</span>
+                                            </p>
+                </div>
+            </a>
+        </li>
+                <li class="last">
+            <a href="/442377" title="菇力帕cos——小泉花阳">
+                <span class="imgbox">                    <b></b>
+                                        <i class="black"></i>
+                    <img data-original="http://rpic.douyucdn.cn/z1602/22/21/442377_160222212549.jpg" src="http://shark.douyucdn.cn/app/douyu/res/page/list-item-def-thumb.gif" width="283" height="163">
+                </span>
+
+                <div class="mes">
+                    <div class="mes-tit">
+                        <h3 class="ellipsis">菇力帕cos——小泉花阳</h3>
+                        <span class="tag ellipsis">次元壁垒</span>
+                    </div>
+                    <p>
+                        <span class="dy-name ellipsis fl">菇力帕神秘的黑洞</span>
+                                                <span class="dy-num fr">3920</span>
+                                            </p>
+                </div>
+            </a>
+        </li>
+                <li >
+            <a href="/216255" title="祝大家元宵节快乐！辉">
+                <span class="imgbox">                    <b></b>
+                                        <i class="black"></i>
+                    <img data-original="http://rpic.douyucdn.cn/z1602/22/21/216255_160222213236.jpg" src="http://shark.douyucdn.cn/app/douyu/res/page/list-item-def-thumb.gif" width="283" height="163">
+                </span>
+
+                <div class="mes">
+                    <div class="mes-tit">
+                        <h3 class="ellipsis">祝大家元宵节快乐！辉</h3>
+                        <span class="tag ellipsis">格斗游戏</span>
+                    </div>
+                    <p>
+                        <span class="dy-name ellipsis fl">1018497149</span>
+                                                <span class="dy-num fr">4.6万</span>
+                                            </p>
+                </div>
+            </a>
+        </li>
+                <li >
+            <a href="/lisc123" title="体育竞技----元宵节快乐">
+                <span class="imgbox">                    <b></b>
+                                        <i class="black"></i>
+                    <img data-original="http://rpic.douyucdn.cn/z1602/22/21/439358_160222212647.jpg" src="http://shark.douyucdn.cn/app/douyu/res/page/list-item-def-thumb.gif" width="283" height="163">
+                </span>
+
+                <div class="mes">
+                    <div class="mes-tit">
+                        <h3 class="ellipsis">体育竞技----元宵节快乐</h3>
+                        <span class="tag ellipsis">体育频道</span>
+                    </div>
+                    <p>
+                        <span class="dy-name ellipsis fl">lisc123</span>
+                                                <span class="dy-num fr">5318</span>
+                                            </p>
+                </div>
+            </a>
+        </li>
+                <li >
+            <a href="/Casya" title="Casya·战舰世界·梦想没有终点.">
+                <span class="imgbox">                    <b></b>
+                                        <i class="black"></i>
+                    <img data-original="http://rpic.douyucdn.cn/z1602/22/21/279835_160222213207.jpg" src="http://shark.douyucdn.cn/app/douyu/res/page/list-item-def-thumb.gif" width="283" height="163">
+                </span>
+
+                <div class="mes">
+                    <div class="mes-tit">
+                        <h3 class="ellipsis">Casya·战舰世界·梦想没有终点.</h3>
+                        <span class="tag ellipsis">战舰世界</span>
+                    </div>
+                    <p>
+                        <span class="dy-name ellipsis fl">Casya</span>
+                                                <span class="dy-num fr">922</span>
+                                            </p>
+                </div>
+            </a>
+        </li>
+                <li class="last">
+            <a href="/508927" title="大家好我是marin">
+                <span class="imgbox">                    <b></b>
+                                        <i class="black"></i>
+                    <img data-original="http://rpic.douyucdn.cn/z1602/22/21/508927_160222212957.jpg" src="http://shark.douyucdn.cn/app/douyu/res/page/list-item-def-thumb.gif" width="283" height="163">
+                </span>
+
+                <div class="mes">
+                    <div class="mes-tit">
+                        <h3 class="ellipsis">大家好我是marin</h3>
+                        <span class="tag ellipsis">英雄联盟</span>
+                    </div>
+                    <p>
+                        <span class="dy-name ellipsis fl">LGD丨Marin</span>
+                                                <span class="dy-num fr">4.3万</span>
+                                            </p>
+                </div>
+            </a>
+        </li>
+                <li >
+            <a href="/yhj430" title="元宵快乐8 9 10 整点抽拼图">
+                <span class="imgbox">                    <b></b>
+                                        <i class="black"></i>
+                    <img data-original="http://rpic.douyucdn.cn/z1602/22/21/415275_160222212652.jpg" src="http://shark.douyucdn.cn/app/douyu/res/page/list-item-def-thumb.gif" width="283" height="163">
+                </span>
+
+                <div class="mes">
+                    <div class="mes-tit">
+                        <h3 class="ellipsis">元宵快乐8 9 10 整点抽拼图</h3>
+                        <span class="tag ellipsis">主机游戏</span>
+                    </div>
+                    <p>
+                        <span class="dy-name ellipsis fl">丶桀哥哥</span>
+                                                <span class="dy-num fr">4.1万</span>
+                                            </p>
+                </div>
+            </a>
+        </li>
+                <li >
+            <a href="/241701" title="【工口画师喵妈酱-快买本本哟！】">
+                <span class="imgbox">                    <b></b>
+                                        <i class="black"></i>
+                    <img data-original="http://staticlive.douyutv.com/upload/web_pic/e0350dffca4d862ec42535ca3b5625e3_thumb.jpg" src="http://shark.douyucdn.cn/app/douyu/res/page/list-item-def-thumb.gif" width="283" height="163">
+                </span>
+
+                <div class="mes">
+                    <div class="mes-tit">
+                        <h3 class="ellipsis">【工口画师喵妈酱-快买本本哟！】</h3>
+                        <span class="tag ellipsis">次元壁垒</span>
+                    </div>
+                    <p>
+                        <span class="dy-name ellipsis fl">笨笨丶Pr1nce</span>
+                                                <span class="dy-num fr">4.1万</span>
+                                            </p>
+                </div>
+            </a>
+        </li>
+                <li >
+            <a href="/chuan967" title="ChuaN直播间 冬季赛加油">
+                <span class="imgbox">                    <b></b>
+                                        <i class="black"></i>
+                    <img data-original="http://rpic.douyucdn.cn/z1602/22/21/58718_160222213228.jpg" src="http://shark.douyucdn.cn/app/douyu/res/page/list-item-def-thumb.gif" width="283" height="163">
+                </span>
+
+                <div class="mes">
+                    <div class="mes-tit">
+                        <h3 class="ellipsis">ChuaN直播间 冬季赛加油</h3>
+                        <span class="tag ellipsis">DOTA2</span>
+                    </div>
+                    <p>
+                        <span class="dy-name ellipsis fl">ChuaN黄福全</span>
+                                                <span class="dy-num fr">4万</span>
+                                            </p>
+                </div>
+            </a>
+        </li>
+                <li class="last">
+            <a href="/dorothy520" title="韩国美女主播:Dorothy520">
+                <span class="imgbox">                    <b></b>
+                                        <i class="black"></i>
+                    <img data-original="http://rpic.douyucdn.cn/z1602/22/21/311911_160222212742.jpg" src="http://shark.douyucdn.cn/app/douyu/res/page/list-item-def-thumb.gif" width="283" height="163">
+                </span>
+
+                <div class="mes">
+                    <div class="mes-tit">
+                        <h3 class="ellipsis">韩国美女主播:Dorothy520</h3>
+                        <span class="tag ellipsis">鱼行天下</span>
+                    </div>
+                    <p>
+                        <span class="dy-name ellipsis fl">jinheyin</span>
+                                                <span class="dy-num fr">4万</span>
+                                            </p>
+                </div>
+            </a>
+        </li>
+                <li >
+            <a href="/193024" title="劳拉:比汤圆还甜呢">
+                <span class="imgbox">                    <b></b>
+                                        <i class="black"></i>
+                    <img data-original="http://rpic.douyucdn.cn/z1602/22/21/193024_160222212638.jpg" src="http://shark.douyucdn.cn/app/douyu/res/page/list-item-def-thumb.gif" width="283" height="163">
+                </span>
+
+                <div class="mes">
+                    <div class="mes-tit">
+                        <h3 class="ellipsis">劳拉:比汤圆还甜呢</h3>
+                        <span class="tag ellipsis">全民星秀</span>
+                    </div>
+                    <p>
+                        <span class="dy-name ellipsis fl">劳拉TV</span>
+                                                <span class="dy-num fr">3.9万</span>
+                                            </p>
+                </div>
+            </a>
+        </li>
+                <li >
+            <a href="/niku" title="魔王：给小老婆突破最高胜_(:зゝ∠)_">
+                <span class="imgbox">                    <b></b>
+                                        <i class="black"></i>
+                    <img data-original="http://rpic.douyucdn.cn/z1602/22/21/292081_160222212643.jpg" src="http://shark.douyucdn.cn/app/douyu/res/page/list-item-def-thumb.gif" width="283" height="163">
+                </span>
+
+                <div class="mes">
+                    <div class="mes-tit">
+                        <h3 class="ellipsis">魔王：给小老婆突破最高胜_(:зゝ∠)_</h3>
+                        <span class="tag ellipsis">炉石传说</span>
+                    </div>
+                    <p>
+                        <span class="dy-name ellipsis fl">在下萝莉控ii</span>
+                                                <span class="dy-num fr">3.7万</span>
+                                            </p>
+                </div>
+            </a>
+        </li>
+                <li >
+            <a href="/cclive" title="CC：今天1000张W50缘分合卡">
+                <span class="imgbox">                    <b></b>
+                                        <i class="black"></i>
+                    <img data-original="http://rpic.douyucdn.cn/z1602/22/21/86410_160222212622.jpg" src="http://shark.douyucdn.cn/app/douyu/res/page/list-item-def-thumb.gif" width="283" height="163">
+                </span>
+
+                <div class="mes">
+                    <div class="mes-tit">
+                        <h3 class="ellipsis">CC：今天1000张W50缘分合卡</h3>
+                        <span class="tag ellipsis">足球竞技</span>
+                    </div>
+                    <p>
+                        <span class="dy-name ellipsis fl">CCLIVE</span>
+                                                <span class="dy-num fr">3.6万</span>
+                                            </p>
+                </div>
+            </a>
+        </li>
+                <li class="last">
+            <a href="/228114" title="-7：难过的主播画个喜庆妆带你们去看灯会">
+                <span class="imgbox">                    <b></b>
+                                        <i class="black"></i>
+                    <img data-original="http://rpic.douyucdn.cn/z1602/22/21/228114_160222212625.jpg" src="http://shark.douyucdn.cn/app/douyu/res/page/list-item-def-thumb.gif" width="283" height="163">
+                </span>
+
+                <div class="mes">
+                    <div class="mes-tit">
+                        <h3 class="ellipsis">-7：难过的主播画个喜庆妆带你们去看灯会</h3>
+                        <span class="tag ellipsis">时尚制造</span>
+                    </div>
+                    <p>
+                        <span class="dy-name ellipsis fl">fu7777777</span>
+                                                <span class="dy-num fr">1628</span>
+                                            </p>
+                </div>
+            </a>
+        </li>
+                <li >
+            <a href="/bravegundam" title="大勇模型 高达制作 海兹尔">
+                <span class="imgbox">                    <b></b>
+                                        <i class="black"></i>
+                    <img data-original="http://rpic.douyucdn.cn/z1602/22/21/331821_160222212449.jpg" src="http://shark.douyucdn.cn/app/douyu/res/page/list-item-def-thumb.gif" width="283" height="163">
+                </span>
+
+                <div class="mes">
+                    <div class="mes-tit">
+                        <h3 class="ellipsis">大勇模型 高达制作 海兹尔</h3>
+                        <span class="tag ellipsis">次元壁垒</span>
+                    </div>
+                    <p>
+                        <span class="dy-name ellipsis fl">chenyong78</span>
+                                                <span class="dy-num fr">3921</span>
+                                            </p>
+                </div>
+            </a>
+        </li>
+                <li >
+            <a href="/35954" title="快进来斗鱼光头魔神元宵节送福利啦">
+                <span class="imgbox">                    <b></b>
+                                        <i class="black"></i>
+                    <img data-original="http://rpic.douyucdn.cn/z1602/22/21/35954_160222212740.jpg" src="http://shark.douyucdn.cn/app/douyu/res/page/list-item-def-thumb.gif" width="283" height="163">
+                </span>
+
+                <div class="mes">
+                    <div class="mes-tit">
+                        <h3 class="ellipsis">快进来斗鱼光头魔神元宵节送福利啦</h3>
+                        <span class="tag ellipsis">英雄联盟</span>
+                    </div>
+                    <p>
+                        <span class="dy-name ellipsis fl">恶魔神</span>
+                                                <span class="dy-num fr">3.3万</span>
+                                            </p>
+                </div>
+            </a>
+        </li>
+                <li >
+            <a href="/33803" title="【果然】Gta5:侠盗逗比手">
+                <span class="imgbox">                    <b></b>
+                                        <i class="black"></i>
+                    <img data-original="http://rpic.douyucdn.cn/z1602/22/21/33803_160222213141.jpg" src="http://shark.douyucdn.cn/app/douyu/res/page/list-item-def-thumb.gif" width="283" height="163">
+                </span>
+
+                <div class="mes">
+                    <div class="mes-tit">
+                        <h3 class="ellipsis">【果然】Gta5:侠盗逗比手</h3>
+                        <span class="tag ellipsis">主机游戏</span>
+                    </div>
+                    <p>
+                        <span class="dy-name ellipsis fl">果然丶</span>
+                                                <span class="dy-num fr">3.2万</span>
+                                            </p>
+                </div>
+            </a>
+        </li>
+                <li class="last">
+            <a href="/Nostalie" title="No:元宵快乐">
+                <span class="imgbox">                    <b></b>
+                                        <i class="black"></i>
+                    <img data-original="http://rpic.douyucdn.cn/z1602/22/21/142488_160222213239.jpg" src="http://shark.douyucdn.cn/app/douyu/res/page/list-item-def-thumb.gif" width="283" height="163">
+                </span>
+
+                <div class="mes">
+                    <div class="mes-tit">
+                        <h3 class="ellipsis">No:元宵快乐</h3>
+                        <span class="tag ellipsis">风暴英雄</span>
+                    </div>
+                    <p>
+                        <span class="dy-name ellipsis fl">Nostalie</span>
+                                                <span class="dy-num fr">3.1万</span>
+                                            </p>
+                </div>
+            </a>
+        </li>
+                <li >
+            <a href="/277799" title="丁毛毛是猪">
+                <span class="imgbox">                    <b></b>
+                                        <i class="black"></i>
+                    <img data-original="http://rpic.douyucdn.cn/z1602/22/21/277799_160222212628.jpg" src="http://shark.douyucdn.cn/app/douyu/res/page/list-item-def-thumb.gif" width="283" height="163">
+                </span>
+
+                <div class="mes">
+                    <div class="mes-tit">
+                        <h3 class="ellipsis">丁毛毛是猪</h3>
+                        <span class="tag ellipsis">全民星秀</span>
+                    </div>
+                    <p>
+                        <span class="dy-name ellipsis fl">丁毛毛</span>
+                                                <span class="dy-num fr">3万</span>
+                                            </p>
+                </div>
+            </a>
+        </li>
+                <li >
+            <a href="/520134" title="161个手工！9点半当扈12点神猿过元宵">
+                <span class="imgbox">                    <b></b>
+                                        <i class="black"></i>
+                    <img data-original="http://rpic.douyucdn.cn/z1602/22/21/520134_160222213231.jpg" src="http://shark.douyucdn.cn/app/douyu/res/page/list-item-def-thumb.gif" width="283" height="163">
+                </span>
+
+                <div class="mes">
+                    <div class="mes-tit">
+                        <h3 class="ellipsis">161个手工！9点半当扈12点神猿过元宵</h3>
+                        <span class="tag ellipsis">新天龙八部</span>
+                    </div>
+                    <p>
+                        <span class="dy-name ellipsis fl">DY丶太阳</span>
+                                                <span class="dy-num fr">5155</span>
+                                            </p>
+                </div>
+            </a>
+        </li>
+                <li >
+            <a href="/456779" title="听说很卡我先去卖点带宽等我！">
+                <span class="imgbox">                    <b></b>
+                                        <i class="black"></i>
+                    <img data-original="http://rpic.douyucdn.cn/z1602/22/21/456779_160222213056.jpg" src="http://shark.douyucdn.cn/app/douyu/res/page/list-item-def-thumb.gif" width="283" height="163">
+                </span>
+
+                <div class="mes">
+                    <div class="mes-tit">
+                        <h3 class="ellipsis">听说很卡我先去卖点带宽等我！</h3>
+                        <span class="tag ellipsis">炉石传说</span>
+                    </div>
+                    <p>
+                        <span class="dy-name ellipsis fl">installBBBB2</span>
+                                                <span class="dy-num fr">1096</span>
+                                            </p>
+                </div>
+            </a>
+        </li>
+                <li class="last">
+            <a href="/334668" title="【伊伊】那些年你没打过的灰机~">
+                <span class="imgbox">                    <b></b>
+                                        <i class="black"></i>
+                    <img data-original="http://rpic.douyucdn.cn/z1602/22/21/334668_160222213153.jpg" src="http://shark.douyucdn.cn/app/douyu/res/page/list-item-def-thumb.gif" width="283" height="163">
+                </span>
+
+                <div class="mes">
+                    <div class="mes-tit">
+                        <h3 class="ellipsis">【伊伊】那些年你没打过的灰机~</h3>
+                        <span class="tag ellipsis">怀旧游戏</span>
+                    </div>
+                    <p>
+                        <span class="dy-name ellipsis fl">雪月伊人</span>
+                                                <span class="dy-num fr">3578</span>
+                                            </p>
+                </div>
+            </a>
+        </li>
+                <li >
+            <a href="/zy52099" title="跑跑卡丁车华建陪你们过元宵">
+                <span class="imgbox">                    <b></b>
+                                        <i class="black"></i>
+                    <img data-original="http://rpic.douyucdn.cn/z1602/22/21/102986_160222213235.jpg" src="http://shark.douyucdn.cn/app/douyu/res/page/list-item-def-thumb.gif" width="283" height="163">
+                </span>
+
+                <div class="mes">
+                    <div class="mes-tit">
+                        <h3 class="ellipsis">跑跑卡丁车华建陪你们过元宵</h3>
+                        <span class="tag ellipsis">跑跑卡丁车</span>
+                    </div>
+                    <p>
+                        <span class="dy-name ellipsis fl">DouyuTV华建</span>
+                                                <span class="dy-num fr">2.9万</span>
+                                            </p>
+                </div>
+            </a>
+        </li>
+                <li >
+            <a href="/484968" title="元宵快乐哦">
+                <span class="imgbox">                    <b></b>
+                                        <i class="black"></i>
+                    <img data-original="http://rpic.douyucdn.cn/z1602/22/21/484968_160222212916.jpg" src="http://shark.douyucdn.cn/app/douyu/res/page/list-item-def-thumb.gif" width="283" height="163">
+                </span>
+
+                <div class="mes">
+                    <div class="mes-tit">
+                        <h3 class="ellipsis">元宵快乐哦</h3>
+                        <span class="tag ellipsis">全民星秀</span>
+                    </div>
+                    <p>
+                        <span class="dy-name ellipsis fl">2宝宝宝宝</span>
+                                                <span class="dy-num fr">2.9万</span>
+                                            </p>
+                </div>
+            </a>
+        </li>
+                <li >
+            <a href="/315173" title="OB路人局吵架血池局。下盘我上。~">
+                <span class="imgbox">                    <b></b>
+                                        <i class="black"></i>
+                    <img data-original="http://rpic.douyucdn.cn/z1602/22/21/315173_160222212711.jpg" src="http://shark.douyucdn.cn/app/douyu/res/page/list-item-def-thumb.gif" width="283" height="163">
+                </span>
+
+                <div class="mes">
+                    <div class="mes-tit">
+                        <h3 class="ellipsis">OB路人局吵架血池局。下盘我上。~</h3>
+                        <span class="tag ellipsis">魔兽争霸</span>
+                    </div>
+                    <p>
+                        <span class="dy-name ellipsis fl">澄海3c晨曦</span>
+                                                <span class="dy-num fr">2.8万</span>
+                                            </p>
+                </div>
+            </a>
+        </li>
+                <li class="last">
+            <a href="/hudabao" title="失踪人口回归了~~">
+                <span class="imgbox">                    <b></b>
+                                        <i class="black"></i>
+                    <img data-original="http://rpic.douyucdn.cn/z1602/22/21/71571_160222212553.jpg" src="http://shark.douyucdn.cn/app/douyu/res/page/list-item-def-thumb.gif" width="283" height="163">
+                </span>
+
+                <div class="mes">
+                    <div class="mes-tit">
+                        <h3 class="ellipsis">失踪人口回归了~~</h3>
+                        <span class="tag ellipsis">地下城与勇士</span>
+                    </div>
+                    <p>
+                        <span class="dy-name ellipsis fl">Cherry胡大宝</span>
+                                                <span class="dy-num fr">2.8万</span>
+                                            </p>
+                </div>
+            </a>
+        </li>
+                <li >
+            <a href="/450663" title="死歌张震岳：黑暗烧烤">
+                <span class="imgbox">                    <b></b>
+                                        <i class="black"></i>
+                    <img data-original="http://rpic.douyucdn.cn/z1602/22/21/450663_160222212716.jpg" src="http://shark.douyucdn.cn/app/douyu/res/page/list-item-def-thumb.gif" width="283" height="163">
+                </span>
+
+                <div class="mes">
+                    <div class="mes-tit">
+                        <h3 class="ellipsis">死歌张震岳：黑暗烧烤</h3>
+                        <span class="tag ellipsis">元气领域</span>
+                    </div>
+                    <p>
+                        <span class="dy-name ellipsis fl">灭鼠兄弟</span>
+                                                <span class="dy-num fr">2.8万</span>
+                                            </p>
+                </div>
+            </a>
+        </li>
+                <li >
+            <a href="/imbatvhaitao" title="【海涛】与西十一一起带大家开黑!">
+                <span class="imgbox">                    <b></b>
+                                        <i class="black"></i>
+                    <img data-original="http://rpic.douyucdn.cn/z1602/22/21/234544_160222212638.jpg" src="http://shark.douyucdn.cn/app/douyu/res/page/list-item-def-thumb.gif" width="283" height="163">
+                </span>
+
+                <div class="mes">
+                    <div class="mes-tit">
+                        <h3 class="ellipsis">【海涛】与西十一一起带大家开黑!</h3>
+                        <span class="tag ellipsis">DOTA2</span>
+                    </div>
+                    <p>
+                        <span class="dy-name ellipsis fl">ImbaTV海涛</span>
+                                                <span class="dy-num fr">2.5万</span>
+                                            </p>
+                </div>
+            </a>
+        </li>
+                <li >
+            <a href="/Nan1a" title="元宵节快乐 兄弟们~">
+                <span class="imgbox">                    <b></b>
+                                        <i class="black"></i>
+                    <img data-original="http://rpic.douyucdn.cn/z1602/22/21/24873_160222212736.jpg" src="http://shark.douyucdn.cn/app/douyu/res/page/list-item-def-thumb.gif" width="283" height="163">
+                </span>
+
+                <div class="mes">
+                    <div class="mes-tit">
+                        <h3 class="ellipsis">元宵节快乐 兄弟们~</h3>
+                        <span class="tag ellipsis">穿越火线</span>
+                    </div>
+                    <p>
+                        <span class="dy-name ellipsis fl">老团长浩南</span>
+                                                <span class="dy-num fr">2.3万</span>
+                                            </p>
+                </div>
+            </a>
+        </li>
+                <li class="last">
+            <a href="/63623" title="鲍鲍AD讲堂：各位观众老爷们元宵快乐！">
+                <span class="imgbox">                    <b></b>
+                                        <i class="black"></i>
+                    <img data-original="http://rpic.douyucdn.cn/z1602/22/21/63623_160222212232.jpg" src="http://shark.douyucdn.cn/app/douyu/res/page/list-item-def-thumb.gif" width="283" height="163">
+                </span>
+
+                <div class="mes">
+                    <div class="mes-tit">
+                        <h3 class="ellipsis">鲍鲍AD讲堂：各位观众老爷们元宵快乐！</h3>
+                        <span class="tag ellipsis">英雄联盟</span>
+                    </div>
+                    <p>
+                        <span class="dy-name ellipsis fl">略微变态</span>
+                                                <span class="dy-num fr">2.3万</span>
+                                            </p>
+                </div>
+            </a>
+        </li>
+                <li >
+            <a href="/tsukasa" title="tt的直播间,元宵节快乐~">
+                <span class="imgbox">                    <b></b>
+                                        <i class="black"></i>
+                    <img data-original="http://rpic.douyucdn.cn/z1602/22/21/1188_160222213244.jpg" src="http://shark.douyucdn.cn/app/douyu/res/page/list-item-def-thumb.gif" width="283" height="163">
+                </span>
+
+                <div class="mes">
+                    <div class="mes-tit">
+                        <h3 class="ellipsis">tt的直播间,元宵节快乐~</h3>
+                        <span class="tag ellipsis">英雄联盟</span>
+                    </div>
+                    <p>
+                        <span class="dy-name ellipsis fl">tsukasalol</span>
+                                                <span class="dy-num fr">2.2万</span>
+                                            </p>
+                </div>
+            </a>
+        </li>
+                <li >
+            <a href="/mla" title="[小醒]马里奥：元宵节福利抽玛瑙活动">
+                <span class="imgbox">                    <b></b>
+                                        <i class="black"></i>
+                    <img data-original="http://rpic.douyucdn.cn/z1602/22/21/110174_160222213212.jpg" src="http://shark.douyucdn.cn/app/douyu/res/page/list-item-def-thumb.gif" width="283" height="163">
+                </span>
+
+                <div class="mes">
+                    <div class="mes-tit">
+                        <h3 class="ellipsis">[小醒]马里奥：元宵节福利抽玛瑙活动</h3>
+                        <span class="tag ellipsis">主机游戏</span>
+                    </div>
+                    <p>
+                        <span class="dy-name ellipsis fl">梦醒丨</span>
+                                                <span class="dy-num fr">2.1万</span>
+                                            </p>
+                </div>
+            </a>
+        </li>
+                <li >
+            <a href="/sunliren" title="定位赛能定到青铜几？">
+                <span class="imgbox">                    <b></b>
+                                        <i class="black"></i>
+                    <img data-original="http://rpic.douyucdn.cn/z1602/22/21/863_160222212649.jpg" src="http://shark.douyucdn.cn/app/douyu/res/page/list-item-def-thumb.gif" width="283" height="163">
+                </span>
+
+                <div class="mes">
+                    <div class="mes-tit">
+                        <h3 class="ellipsis">定位赛能定到青铜几？</h3>
+                        <span class="tag ellipsis">英雄联盟</span>
+                    </div>
+                    <p>
+                        <span class="dy-name ellipsis fl">七煌孙立人</span>
+                                                <span class="dy-num fr">2万</span>
+                                            </p>
+                </div>
+            </a>
+        </li>
+                <li class="last">
+            <a href="/pyl" title="LGDpyl韩服5排开车了">
+                <span class="imgbox">                    <b></b>
+                                        <i class="black"></i>
+                    <img data-original="http://rpic.douyucdn.cn/z1602/22/21/299113_160222212935.jpg" src="http://shark.douyucdn.cn/app/douyu/res/page/list-item-def-thumb.gif" width="283" height="163">
+                </span>
+
+                <div class="mes">
+                    <div class="mes-tit">
+                        <h3 class="ellipsis">LGDpyl韩服5排开车了</h3>
+                        <span class="tag ellipsis">英雄联盟</span>
+                    </div>
+                    <p>
+                        <span class="dy-name ellipsis fl">doufudada</span>
+                                                <span class="dy-num fr">1.9万</span>
+                                            </p>
+                </div>
+            </a>
+        </li>
+                <li >
+            <a href="/fly100" title="今天冲第一">
+                <span class="imgbox">                    <b></b>
+                                        <i class="black"></i>
+                    <img data-original="http://rpic.douyucdn.cn/z1602/22/21/255329_160222213127.jpg" src="http://shark.douyucdn.cn/app/douyu/res/page/list-item-def-thumb.gif" width="283" height="163">
+                </span>
+
+                <div class="mes">
+                    <div class="mes-tit">
+                        <h3 class="ellipsis">今天冲第一</h3>
+                        <span class="tag ellipsis">魔兽争霸</span>
+                    </div>
+                    <p>
+                        <span class="dy-name ellipsis fl">Flygogogogo</span>
+                                                <span class="dy-num fr">1.9万</span>
+                                            </p>
+                </div>
+            </a>
+        </li>
+                <li >
+            <a href="/12776" title="Misa锐萌萌：心如汤团，节日快乐~">
+                <span class="imgbox">                    <b></b>
+                                        <i class="black"></i>
+                    <img data-original="http://rpic.douyucdn.cn/z1602/22/21/12776_160222212615.jpg" src="http://shark.douyucdn.cn/app/douyu/res/page/list-item-def-thumb.gif" width="283" height="163">
+                </span>
+
+                <div class="mes">
+                    <div class="mes-tit">
+                        <h3 class="ellipsis">Misa锐萌萌：心如汤团，节日快乐~</h3>
+                        <span class="tag ellipsis">英雄联盟</span>
+                    </div>
+                    <p>
+                        <span class="dy-name ellipsis fl">Misa锐雯</span>
+                                                <span class="dy-num fr">1.8万</span>
+                                            </p>
+                </div>
+            </a>
+        </li>
+                <li >
+            <a href="/203964" title="⊙ω⊙好不容易打扮一次">
+                <span class="imgbox">                    <b></b>
+                                        <i class="black"></i>
+                    <img data-original="http://rpic.douyucdn.cn/z1602/22/21/203964_160222213032.jpg" src="http://shark.douyucdn.cn/app/douyu/res/page/list-item-def-thumb.gif" width="283" height="163">
+                </span>
+
+                <div class="mes">
+                    <div class="mes-tit">
+                        <h3 class="ellipsis">⊙ω⊙好不容易打扮一次</h3>
+                        <span class="tag ellipsis">英雄联盟</span>
+                    </div>
+                    <p>
+                        <span class="dy-name ellipsis fl">番茄萌蛋蛋i</span>
+                                                <span class="dy-num fr">1.8万</span>
+                                            </p>
+                </div>
+            </a>
+        </li>
+                <li class="last">
+            <a href="/307945" title="余生太长，你好难忘">
+                <span class="imgbox">                    <b></b>
+                                        <i class="black"></i>
+                    <img data-original="http://rpic.douyucdn.cn/z1602/22/21/307945_160222212618.jpg" src="http://shark.douyucdn.cn/app/douyu/res/page/list-item-def-thumb.gif" width="283" height="163">
+                </span>
+
+                <div class="mes">
+                    <div class="mes-tit">
+                        <h3 class="ellipsis">余生太长，你好难忘</h3>
+                        <span class="tag ellipsis">全民星秀</span>
+                    </div>
+                    <p>
+                        <span class="dy-name ellipsis fl">卖萌小萝拉</span>
+                                                <span class="dy-num fr">1.7万</span>
+                                            </p>
+                </div>
+            </a>
+        </li>
+                <li >
+            <a href="/279558" title="[24H斗鱼第一专业车评]陈震YYP选车">
+                <span class="imgbox">                    <b></b>
+                                        <i class="black"></i>
+                    <img data-original="http://rpic.douyucdn.cn/z1602/22/21/279558_160222211817.jpg" src="http://shark.douyucdn.cn/app/douyu/res/page/list-item-def-thumb.gif" width="283" height="163">
+                </span>
+
+                <div class="mes">
+                    <div class="mes-tit">
+                        <h3 class="ellipsis">[24H斗鱼第一专业车评]陈震YYP选车</h3>
+                        <span class="tag ellipsis">玩汽车</span>
+                    </div>
+                    <p>
+                        <span class="dy-name ellipsis fl">金叔2015</span>
+                                                <span class="dy-num fr">1.7万</span>
+                                            </p>
+                </div>
+            </a>
+        </li>
+                <li >
+            <a href="/txgs" title="阿顺炼金：夕阳下的奔跑。">
+                <span class="imgbox">                    <b></b>
+                                        <i class="black"></i>
+                    <img data-original="http://rpic.douyucdn.cn/z1602/22/21/212618_160222213130.jpg" src="http://shark.douyucdn.cn/app/douyu/res/page/list-item-def-thumb.gif" width="283" height="163">
+                </span>
+
+                <div class="mes">
+                    <div class="mes-tit">
+                        <h3 class="ellipsis">阿顺炼金：夕阳下的奔跑。</h3>
+                        <span class="tag ellipsis">英雄联盟</span>
+                    </div>
+                    <p>
+                        <span class="dy-name ellipsis fl">a361042499</span>
+                                                <span class="dy-num fr">1.7万</span>
+                                            </p>
+                </div>
+            </a>
+        </li>
+                <li >
+            <a href="/220149" title="?(°?‵?′??)">
+                <span class="imgbox">                    <b></b>
+                                        <i class="black"></i>
+                    <img data-original="http://rpic.douyucdn.cn/z1602/22/21/220149_160222212646.jpg" src="http://shark.douyucdn.cn/app/douyu/res/page/list-item-def-thumb.gif" width="283" height="163">
+                </span>
+
+                <div class="mes">
+                    <div class="mes-tit">
+                        <h3 class="ellipsis">?(°?‵?′??)</h3>
+                        <span class="tag ellipsis">鱼音绕梁</span>
+                    </div>
+                    <p>
+                        <span class="dy-name ellipsis fl">格格酱i</span>
+                                                <span class="dy-num fr">1.7万</span>
+                                            </p>
+                </div>
+            </a>
+        </li>
+                <li class="last">
+            <a href="/ZSMJ" title="ZSMJ 没时间解释了，快上车">
+                <span class="imgbox">                    <b></b>
+                                        <i class="black"></i>
+                    <img data-original="http://rpic.douyucdn.cn/z1602/22/21/52876_160222212745.jpg" src="http://shark.douyucdn.cn/app/douyu/res/page/list-item-def-thumb.gif" width="283" height="163">
+                </span>
+
+                <div class="mes">
+                    <div class="mes-tit">
+                        <h3 class="ellipsis">ZSMJ 没时间解释了，快上车</h3>
+                        <span class="tag ellipsis">DOTA2</span>
+                    </div>
+                    <p>
+                        <span class="dy-name ellipsis fl">ZSMJ727974758</span>
+                                                <span class="dy-num fr">1.7万</span>
+                                            </p>
+                </div>
+            </a>
+        </li>
+                <li >
+            <a href="/chongbo" title="萌宠播-感恩抽奖10点30分HT李小龙">
+                <span class="imgbox">                    <b></b>
+                                        <i class="black"></i>
+                    <img data-original="http://rpic.douyucdn.cn/z1602/22/21/246208_160222211818.jpg" src="http://shark.douyucdn.cn/app/douyu/res/page/list-item-def-thumb.gif" width="283" height="163">
+                </span>
+
+                <div class="mes">
+                    <div class="mes-tit">
+                        <h3 class="ellipsis">萌宠播-感恩抽奖10点30分HT李小龙</h3>
+                        <span class="tag ellipsis">元气领域</span>
+                    </div>
+                    <p>
+                        <span class="dy-name ellipsis fl">雪纳瑞三口之家</span>
+                                                <span class="dy-num fr">1.7万</span>
+                                            </p>
+                </div>
+            </a>
+        </li>
+                <li >
+            <a href="/Camaro" title="全球排名第一军事作战游戏！">
+                <span class="imgbox">                    <b></b>
+                                        <i class="black"></i>
+                    <img data-original="http://rpic.douyucdn.cn/z1602/22/21/21022_160222213115.jpg" src="http://shark.douyucdn.cn/app/douyu/res/page/list-item-def-thumb.gif" width="283" height="163">
+                </span>
+
+                <div class="mes">
+                    <div class="mes-tit">
+                        <h3 class="ellipsis">全球排名第一军事作战游戏！</h3>
+                        <span class="tag ellipsis">主机游戏</span>
+                    </div>
+                    <p>
+                        <span class="dy-name ellipsis fl">魄天哓</span>
+                                                <span class="dy-num fr">1.6万</span>
+                                            </p>
+                </div>
+            </a>
+        </li>
+                <li >
+            <a href="/249897" title="斗鱼第一刘德华.。！">
+                <span class="imgbox">                    <b></b>
+                                        <i class="black"></i>
+                    <img data-original="http://rpic.douyucdn.cn/z1602/22/21/249897_160222212640.jpg" src="http://shark.douyucdn.cn/app/douyu/res/page/list-item-def-thumb.gif" width="283" height="163">
+                </span>
+
+                <div class="mes">
+                    <div class="mes-tit">
+                        <h3 class="ellipsis">斗鱼第一刘德华.。！</h3>
+                        <span class="tag ellipsis">鱼音绕梁</span>
+                    </div>
+                    <p>
+                        <span class="dy-name ellipsis fl">斗渔刘德华</span>
+                                                <span class="dy-num fr">1.6万</span>
+                                            </p>
+                </div>
+            </a>
+        </li>
+                <li class="last">
+            <a href="/478334" title="小壹Evan：元宵了，开学还会远吗~">
+                <span class="imgbox">                    <b></b>
+                                        <i class="black"></i>
+                    <img data-original="http://rpic.douyucdn.cn/z1602/22/21/478334_160222212433.jpg" src="http://shark.douyucdn.cn/app/douyu/res/page/list-item-def-thumb.gif" width="283" height="163">
+                </span>
+
+                <div class="mes">
+                    <div class="mes-tit">
+                        <h3 class="ellipsis">小壹Evan：元宵了，开学还会远吗~</h3>
+                        <span class="tag ellipsis">全民星秀</span>
+                    </div>
+                    <p>
+                        <span class="dy-name ellipsis fl">Evan小一</span>
+                                                <span class="dy-num fr">1.6万</span>
+                                            </p>
+                </div>
+            </a>
+        </li>
+                <li >
+            <a href="/muzi" title="木子： 元宵快乐，次汤圆~">
+                <span class="imgbox">                    <b></b>
+                                        <i class="black"></i>
+                    <img data-original="http://rpic.douyucdn.cn/z1602/22/21/2433_160222212745.jpg" src="http://shark.douyucdn.cn/app/douyu/res/page/list-item-def-thumb.gif" width="283" height="163">
+                </span>
+
+                <div class="mes">
+                    <div class="mes-tit">
+                        <h3 class="ellipsis">木子： 元宵快乐，次汤圆~</h3>
+                        <span class="tag ellipsis">守望先锋</span>
+                    </div>
+                    <p>
+                        <span class="dy-name ellipsis fl">木子Sama丶</span>
+                                                <span class="dy-num fr">1.6万</span>
+                                            </p>
+                </div>
+            </a>
+        </li>
+                <li >
+            <a href="/damao6666666" title="【大猫】剧情版饥荒联机版，各建各家~">
+                <span class="imgbox">                    <b></b>
+                                        <i class="black"></i>
+                    <img data-original="http://rpic.douyucdn.cn/z1602/22/21/482386_160222212241.jpg" src="http://shark.douyucdn.cn/app/douyu/res/page/list-item-def-thumb.gif" width="283" height="163">
+                </span>
+
+                <div class="mes">
+                    <div class="mes-tit">
+                        <h3 class="ellipsis">【大猫】剧情版饥荒联机版，各建各家~</h3>
+                        <span class="tag ellipsis">饥荒</span>
+                    </div>
+                    <p>
+                        <span class="dy-name ellipsis fl">大猫6666666</span>
+                                                <span class="dy-num fr">1.5万</span>
+                                            </p>
+                </div>
+            </a>
+        </li>
+                <li >
+            <a href="/doupai" title="鲨！鱼！套！套哥王者归来！">
+                <span class="imgbox">                    <b></b>
+                                        <i class="black"></i>
+                    <img data-original="http://rpic.douyucdn.cn/z1602/22/21/645_160222211819.jpg" src="http://shark.douyucdn.cn/app/douyu/res/page/list-item-def-thumb.gif" width="283" height="163">
+                </span>
+
+                <div class="mes">
+                    <div class="mes-tit">
+                        <h3 class="ellipsis">鲨！鱼！套！套哥王者归来！</h3>
+                        <span class="tag ellipsis">棋牌娱乐</span>
+                    </div>
+                    <p>
+                        <span class="dy-name ellipsis fl">斗牌TV</span>
+                                                <span class="dy-num fr">1.4万</span>
+                                            </p>
+                </div>
+            </a>
+        </li>
+                <li class="last">
+            <a href="/216315" title="恐怖盛宴（心脏病慎入！）">
+                <span class="imgbox">                    <b></b>
+                                        <i class="black"></i>
+                    <img data-original="http://rpic.douyucdn.cn/z1602/22/21/216315_160222212236.jpg" src="http://shark.douyucdn.cn/app/douyu/res/page/list-item-def-thumb.gif" width="283" height="163">
+                </span>
+
+                <div class="mes">
+                    <div class="mes-tit">
+                        <h3 class="ellipsis">恐怖盛宴（心脏病慎入！）</h3>
+                        <span class="tag ellipsis">主机游戏</span>
+                    </div>
+                    <p>
+                        <span class="dy-name ellipsis fl">咸鱼超人小D</span>
+                                                <span class="dy-num fr">1.4万</span>
+                                            </p>
+                </div>
+            </a>
+        </li>
+                <li >
+            <a href="/qianjia2015" title="听别人的故事，流自己的眼泪！">
+                <span class="imgbox">                    <b></b>
+                                        <i class="black"></i>
+                    <img data-original="http://rpic.douyucdn.cn/z1602/22/21/229346_160222212417.jpg" src="http://shark.douyucdn.cn/app/douyu/res/page/list-item-def-thumb.gif" width="283" height="163">
+                </span>
+
+                <div class="mes">
+                    <div class="mes-tit">
+                        <h3 class="ellipsis">听别人的故事，流自己的眼泪！</h3>
+                        <span class="tag ellipsis">全民星秀</span>
+                    </div>
+                    <p>
+                        <span class="dy-name ellipsis fl">高冷男神钱小佳</span>
+                                                <span class="dy-num fr">1.4万</span>
+                                            </p>
+                </div>
+            </a>
+        </li>
+                <li >
+            <a href="/doubao" title="豆宝@火影忍者终极风暴今日主打水门">
+                <span class="imgbox">                    <b></b>
+                                        <i class="black"></i>
+                    <img data-original="http://rpic.douyucdn.cn/z1602/22/21/4902_160222213240.jpg" src="http://shark.douyucdn.cn/app/douyu/res/page/list-item-def-thumb.gif" width="283" height="163">
+                </span>
+
+                <div class="mes">
+                    <div class="mes-tit">
+                        <h3 class="ellipsis">豆宝@火影忍者终极风暴今日主打水门</h3>
+                        <span class="tag ellipsis">主机游戏</span>
+                    </div>
+                    <p>
+                        <span class="dy-name ellipsis fl">豆宝Doubao</span>
+                                                <span class="dy-num fr">1.3万</span>
+                                            </p>
+                </div>
+            </a>
+        </li>
+                <li >
+            <a href="/Cherry277" title="日常紫萱！！（我就是乱玩">
+                <span class="imgbox">                    <b></b>
+                                        <i class="black"></i>
+                    <img data-original="http://rpic.douyucdn.cn/z1602/22/21/288010_160222212651.jpg" src="http://shark.douyucdn.cn/app/douyu/res/page/list-item-def-thumb.gif" width="283" height="163">
+                </span>
+
+                <div class="mes">
+                    <div class="mes-tit">
+                        <h3 class="ellipsis">日常紫萱！！（我就是乱玩</h3>
+                        <span class="tag ellipsis">炉石传说</span>
+                    </div>
+                    <p>
+                        <span class="dy-name ellipsis fl">丸子呦</span>
+                                                <span class="dy-num fr">1.3万</span>
+                                            </p>
+                </div>
+            </a>
+        </li>
+                <li class="last">
+            <a href="/fong" title="【MUGEN】元宵歼灭战">
+                <span class="imgbox">                    <b></b>
+                                        <i class="black"></i>
+                    <img data-original="http://rpic.douyucdn.cn/z1602/22/21/29710_160222213041.jpg" src="http://shark.douyucdn.cn/app/douyu/res/page/list-item-def-thumb.gif" width="283" height="163">
+                </span>
+
+                <div class="mes">
+                    <div class="mes-tit">
+                        <h3 class="ellipsis">【MUGEN】元宵歼灭战</h3>
+                        <span class="tag ellipsis">格斗游戏</span>
+                    </div>
+                    <p>
+                        <span class="dy-name ellipsis fl">那日的风</span>
+                                                <span class="dy-num fr">1.3万</span>
+                                            </p>
+                </div>
+            </a>
+        </li>
+                <li >
+            <a href="/469916" title="2月最后一次室内直播~">
+                <span class="imgbox">                    <b></b>
+                                        <i class="black"></i>
+                    <img data-original="http://rpic.douyucdn.cn/z1602/22/21/469916_160222212955.jpg" src="http://shark.douyucdn.cn/app/douyu/res/page/list-item-def-thumb.gif" width="283" height="163">
+                </span>
+
+                <div class="mes">
+                    <div class="mes-tit">
+                        <h3 class="ellipsis">2月最后一次室内直播~</h3>
+                        <span class="tag ellipsis">全民星秀</span>
+                    </div>
+                    <p>
+                        <span class="dy-name ellipsis fl">菲悦丶瘦子娟</span>
+                                                <span class="dy-num fr">1.3万</span>
+                                            </p>
+                </div>
+            </a>
+        </li>
+                <li >
+            <a href="/yjian" title="一剑：剑游心走。">
+                <span class="imgbox">                    <b></b>
+                                        <i class="black"></i>
+                    <img data-original="http://rpic.douyucdn.cn/z1602/22/21/252652_160222212710.jpg" src="http://shark.douyucdn.cn/app/douyu/res/page/list-item-def-thumb.gif" width="283" height="163">
+                </span>
+
+                <div class="mes">
+                    <div class="mes-tit">
+                        <h3 class="ellipsis">一剑：剑游心走。</h3>
+                        <span class="tag ellipsis">天涯明月刀</span>
+                    </div>
+                    <p>
+                        <span class="dy-name ellipsis fl">一jian</span>
+                                                <span class="dy-num fr">1.2万</span>
+                                            </p>
+                </div>
+            </a>
+        </li>
+                <li >
+            <a href="/catgames" title="【Cat】猫の独立恐怖游戏">
+                <span class="imgbox">                    <b></b>
+                                        <i class="black"></i>
+                    <img data-original="http://rpic.douyucdn.cn/z1602/22/21/99367_160222212451.jpg" src="http://shark.douyucdn.cn/app/douyu/res/page/list-item-def-thumb.gif" width="283" height="163">
+                </span>
+
+                <div class="mes">
+                    <div class="mes-tit">
+                        <h3 class="ellipsis">【Cat】猫の独立恐怖游戏</h3>
+                        <span class="tag ellipsis">主机游戏</span>
+                    </div>
+                    <p>
+                        <span class="dy-name ellipsis fl">老猫CatGames</span>
+                                                <span class="dy-num fr">1.2万</span>
+                                            </p>
+                </div>
+            </a>
+        </li>
+                <li class="last">
+            <a href="/ymq" title="【斗鱼羽球】经典羽毛球比赛轮播（24h）">
+                <span class="imgbox">                    <b></b>
+                                        <i class="black"></i>
+                    <img data-original="http://rpic.douyucdn.cn/z1602/22/21/458781_160222212748.jpg" src="http://shark.douyucdn.cn/app/douyu/res/page/list-item-def-thumb.gif" width="283" height="163">
+                </span>
+
+                <div class="mes">
+                    <div class="mes-tit">
+                        <h3 class="ellipsis">【斗鱼羽球】经典羽毛球比赛轮播（24h）</h3>
+                        <span class="tag ellipsis">体育频道</span>
+                    </div>
+                    <p>
+                        <span class="dy-name ellipsis fl">纳苏坡</span>
+                                                <span class="dy-num fr">376</span>
+                                            </p>
+                </div>
+            </a>
+        </li>
+                <li >
+            <a href="/466396" title="各位元宵节快乐~19:30滴">
+                <span class="imgbox">                    <b></b>
+                                        <i class="black"></i>
+                    <img data-original="http://rpic.douyucdn.cn/z1602/22/21/466396_160222212724.jpg" src="http://shark.douyucdn.cn/app/douyu/res/page/list-item-def-thumb.gif" width="283" height="163">
+                </span>
+
+                <div class="mes">
+                    <div class="mes-tit">
+                        <h3 class="ellipsis">各位元宵节快乐~19:30滴</h3>
+                        <span class="tag ellipsis">坦克世界</span>
+                    </div>
+                    <p>
+                        <span class="dy-name ellipsis fl">赤色火风</span>
+                                                <span class="dy-num fr">1.2万</span>
+                                            </p>
+                </div>
+            </a>
+        </li>
+                <li >
+            <a href="/kyu999" title="【高考恋爱100天】元宵节快乐噢~">
+                <span class="imgbox">                    <b></b>
+                                        <i class="black"></i>
+                    <img data-original="http://rpic.douyucdn.cn/z1602/22/21/73570_160222212453.jpg" src="http://shark.douyucdn.cn/app/douyu/res/page/list-item-def-thumb.gif" width="283" height="163">
+                </span>
+
+                <div class="mes">
+                    <div class="mes-tit">
+                        <h3 class="ellipsis">【高考恋爱100天】元宵节快乐噢~</h3>
+                        <span class="tag ellipsis">全民星秀</span>
+                    </div>
+                    <p>
+                        <span class="dy-name ellipsis fl">小九九九九</span>
+                                                <span class="dy-num fr">1.2万</span>
+                                            </p>
+                </div>
+            </a>
+        </li>
+                <li >
+            <a href="/chamiao" title="喵 ??ω??  东京迪斯尼有猫猫吗">
+                <span class="imgbox">                    <b></b>
+                                        <i class="black"></i>
+                    <img data-original="http://rpic.douyucdn.cn/z1602/22/21/214657_160222211813.jpg" src="http://shark.douyucdn.cn/app/douyu/res/page/list-item-def-thumb.gif" width="283" height="163">
+                </span>
+
+                <div class="mes">
+                    <div class="mes-tit">
+                        <h3 class="ellipsis">喵 ??ω??  东京迪斯尼有猫猫吗</h3>
+                        <span class="tag ellipsis">元气领域</span>
+                    </div>
+                    <p>
+                        <span class="dy-name ellipsis fl">chamiao</span>
+                                                <span class="dy-num fr">1.2万</span>
+                                            </p>
+                </div>
+            </a>
+        </li>
+                <li class="last">
+            <a href="/joker" title="JoKer 最近和野怪相处的不错">
+                <span class="imgbox">                    <b></b>
+                                        <i class="black"></i>
+                    <img data-original="http://rpic.douyucdn.cn/z1602/22/21/29_160222213110.jpg" src="http://shark.douyucdn.cn/app/douyu/res/page/list-item-def-thumb.gif" width="283" height="163">
+                </span>
+
+                <div class="mes">
+                    <div class="mes-tit">
+                        <h3 class="ellipsis">JoKer 最近和野怪相处的不错</h3>
+                        <span class="tag ellipsis">英雄联盟</span>
+                    </div>
+                    <p>
+                        <span class="dy-name ellipsis fl">教练JoKer</span>
+                                                <span class="dy-num fr">1.2万</span>
+                                            </p>
+                </div>
+            </a>
+        </li>
+                <li >
+            <a href="/60651" title="FC 老弊直播间">
+                <span class="imgbox">                    <b></b>
+                                        <i class="black"></i>
+                    <img data-original="http://rpic.douyucdn.cn/z1602/22/21/60651_160222212232.jpg" src="http://shark.douyucdn.cn/app/douyu/res/page/list-item-def-thumb.gif" width="283" height="163">
+                </span>
+
+                <div class="mes">
+                    <div class="mes-tit">
+                        <h3 class="ellipsis">FC 老弊直播间</h3>
+                        <span class="tag ellipsis">怀旧游戏</span>
+                    </div>
+                    <p>
+                        <span class="dy-name ellipsis fl">shuishen31</span>
+                                                <span class="dy-num fr">1.2万</span>
+                                            </p>
+                </div>
+            </a>
+        </li>
+                <li >
+            <a href="/nuanxin5201" title="暖心：每半小时弹幕送一波点卷，鱼丸抽黑钻">
+                <span class="imgbox">                    <b></b>
+                                        <i class="black"></i>
+                    <img data-original="http://rpic.douyucdn.cn/z1602/22/21/507764_160222212632.jpg" src="http://shark.douyucdn.cn/app/douyu/res/page/list-item-def-thumb.gif" width="283" height="163">
+                </span>
+
+                <div class="mes">
+                    <div class="mes-tit">
+                        <h3 class="ellipsis">暖心：每半小时弹幕送一波点卷，鱼丸抽黑钻</h3>
+                        <span class="tag ellipsis">地下城与勇士</span>
+                    </div>
+                    <p>
+                        <span class="dy-name ellipsis fl">暖心5201</span>
+                                                <span class="dy-num fr">1.1万</span>
+                                            </p>
+                </div>
+            </a>
+        </li>
+                <li >
+            <a href="/twotupiao" title="涛哥弟：一小时送50QB！鱼丸抽奖">
+                <span class="imgbox">                    <b></b>
+                                        <i class="black"></i>
+                    <img data-original="http://rpic.douyucdn.cn/z1602/22/21/506510_160222212508.jpg" src="http://shark.douyucdn.cn/app/douyu/res/page/list-item-def-thumb.gif" width="283" height="163">
+                </span>
+
+                <div class="mes">
+                    <div class="mes-tit">
+                        <h3 class="ellipsis">涛哥弟：一小时送50QB！鱼丸抽奖</h3>
+                        <span class="tag ellipsis">王者荣耀</span>
+                    </div>
+                    <p>
+                        <span class="dy-name ellipsis fl">老实憨厚的涛哥涛弟</span>
+                                                <span class="dy-num fr">1.1万</span>
+                                            </p>
+                </div>
+            </a>
+        </li>
+                <li class="last">
+            <a href="/Siven" title="教父?套路？">
+                <span class="imgbox">                    <b></b>
+                                        <i class="black"></i>
+                    <img data-original="http://rpic.douyucdn.cn/z1602/22/21/28323_160222213131.jpg" src="http://shark.douyucdn.cn/app/douyu/res/page/list-item-def-thumb.gif" width="283" height="163">
+                </span>
+
+                <div class="mes">
+                    <div class="mes-tit">
+                        <h3 class="ellipsis">教父?套路？</h3>
+                        <span class="tag ellipsis">全民星秀</span>
+                    </div>
+                    <p>
+                        <span class="dy-name ellipsis fl">爱丸子的苏七i</span>
+                                                <span class="dy-num fr">1.1万</span>
+                                            </p>
+                </div>
+            </a>
+        </li>
+                <li >
+            <a href="/brothers" title="三国战记 告别单身手速30年">
+                <span class="imgbox">                    <b></b>
+                                        <i class="black"></i>
+                    <img data-original="http://rpic.douyucdn.cn/z1602/22/21/6906_160222212746.jpg" src="http://shark.douyucdn.cn/app/douyu/res/page/list-item-def-thumb.gif" width="283" height="163">
+                </span>
+
+                <div class="mes">
+                    <div class="mes-tit">
+                        <h3 class="ellipsis">三国战记 告别单身手速30年</h3>
+                        <span class="tag ellipsis">怀旧游戏</span>
+                    </div>
+                    <p>
+                        <span class="dy-name ellipsis fl">宋先生</span>
+                                                <span class="dy-num fr">1.1万</span>
+                                            </p>
+                </div>
+            </a>
+        </li>
+                <li >
+            <a href="/iuu" title="知乎女神经大毛，直播虐狗">
+                <span class="imgbox">                    <b></b>
+                                        <i class="black"></i>
+                    <img data-original="http://rpic.douyucdn.cn/z1602/22/21/57653_160222212431.jpg" src="http://shark.douyucdn.cn/app/douyu/res/page/list-item-def-thumb.gif" width="283" height="163">
+                </span>
+
+                <div class="mes">
+                    <div class="mes-tit">
+                        <h3 class="ellipsis">知乎女神经大毛，直播虐狗</h3>
+                        <span class="tag ellipsis">DOTA2</span>
+                    </div>
+                    <p>
+                        <span class="dy-name ellipsis fl">Alleria_u</span>
+                                                <span class="dy-num fr">1672</span>
+                                            </p>
+                </div>
+            </a>
+        </li>
+                <li >
+            <a href="/292962" title="【老石】元宵节快乐！汤圆元宵都是圆的">
+                <span class="imgbox">                    <b></b>
+                                        <i class="black"></i>
+                    <img data-original="http://rpic.douyucdn.cn/z1602/22/21/292962_160222212737.jpg" src="http://shark.douyucdn.cn/app/douyu/res/page/list-item-def-thumb.gif" width="283" height="163">
+                </span>
+
+                <div class="mes">
+                    <div class="mes-tit">
+                        <h3 class="ellipsis">【老石】元宵节快乐！汤圆元宵都是圆的</h3>
+                        <span class="tag ellipsis">守望先锋</span>
+                    </div>
+                    <p>
+                        <span class="dy-name ellipsis fl">老石8103</span>
+                                                <span class="dy-num fr">1.1万</span>
+                                            </p>
+                </div>
+            </a>
+        </li>
+                <li class="last">
+            <a href="/agm1ku" title="「AG」M1KU国服首席生存大师">
+                <span class="imgbox">                    <b></b>
+                                        <i class="black"></i>
+                    <img data-original="http://rpic.douyucdn.cn/z1602/22/21/212135_160222212511.jpg" src="http://shark.douyucdn.cn/app/douyu/res/page/list-item-def-thumb.gif" width="283" height="163">
+                </span>
+
+                <div class="mes">
+                    <div class="mes-tit">
+                        <h3 class="ellipsis">「AG」M1KU国服首席生存大师</h3>
+                        <span class="tag ellipsis">使命召唤OL</span>
+                    </div>
+                    <p>
+                        <span class="dy-name ellipsis fl">AGDouYu丶米库</span>
+                                                <span class="dy-num fr">1.1万</span>
+                                            </p>
+                </div>
+            </a>
+        </li>
+                                                                                    </ul>
+                                </div>
+                                                                                        <div id="J-pager" class="tcd-page-code"></div>
+                                                    </div>
+                    </div>
+                </div>
+            </div>
+            
+        </div>
+
+        <!--登陆弹框模式背景-->
+<script id="dytemp-loginpop-shadow" type="douyu/template">
+    <div class="login-pop-shadow hide"></div>
+</script>
+
+<!--登陆弹框-->
+<script id="dytemp-loginpop" type="douyu/template">
+    <div class="login-pop hide" data-point="dlk">
+        <div class="login-pop-close"></div>
+        <div class="login-pop-tab">
+            <ul>
+                <li><a href="#" class="t-login current">登录</a></li>
+                <li><a href="#" class="t-reg">注册</a></li>
+            </ul>
+        </div>
+
+        <div class="login-pop-cont clearfix">
+            <div class="c-item clearfix" data-type="login">
+                <form action="/member/login/ajax" method="post" data-type="log">
+                    <input type="hidden" name="login_type" value="nickname" >
+
+                    <p>
+                        <input class="ipt" type="text" name="username" placeholder="昵称">
+                    </p>
+
+                    <p>
+                        <input class="ipt" type="password" name="password" placeholder="密码">
+                    </p>
+
+                                        <div class="captcha">
+                        <input class="ipt ipt-capcha" type="text" name="captcha_word" maxlength="4" placeholder="获取验证码">
+                        <img class="" data-src="/member/login/captcha" src="http://shark.douyucdn.cn/app/douyu/res/com/login-pop/captcha-hold.png" >
+                    </div>
+                    <div class="captcha-gt"></div>
+                    
+                    <div class="toreg clearfix">
+                        <input class="btn-sub" type="submit" value="登录">
+                        <p>没有账号？<a href="#" title="马上注册">马上注册</a></p>
+                    </div>
+                </form>
+            </div>
+
+            <div class="c-item clearfix hide" data-type="reg">
+                <form action="" method="post" data-type="reg">
+                    <p>
+                        <input class="ipt" type="text" name="nickname"  placeholder="昵称" autocomplete="off">
+                    </p>
+                    <p>
+                        <input class="ipt" type="password" name="password" placeholder="密码" autocomplete="off">
+                    </p>
+                    <p>
+                        <input class="ipt" type="password" name="password2" placeholder="确认密码" autocomplete="off">
+                    </p>
+                    <p>
+                        <input class="ipt" type="text" name="email" placeholder="电子邮箱" autocomplete="off">
+                    </p>
+                    <p class="i-protocol">
+                        <input type="checkbox" name="protocol" checked="checked">
+                        <label for="protocol">同意 <a href="/protocal/member" target="_blank">斗鱼注册协议及版权声明</a></label>
+                    </p>
+
+                    <input class="ipt ipt-captcha" type="hidden" name="captcha_word" maxlength="4" placeholder="获取验证码">
+
+                    <div class="tolog clearfix">
+                        <input class="btn-sub" type="submit" value="注册" />
+                        <p>已有账号？<a href="#" title="马上登录">马上登录</a></p>
+                    </div>
+                </form>
+            </div>
+        
+            <div class="c-oth">
+                <p>用第三方账号直接登录</p>
+
+                <div>  
+                    <a href="http://www.douyu.com/member/oauth/signin/weixin" class="btn-wx" target="_blank" title="微信账号登录" data-point-2="wx">
+                        <span class="dy-icon dy-wx"></span>
+                        <span>微信账号登录</span>
+                    </a>
+                    <a href="http://www.douyutv.com/member/oauth/signin/qq" class="btn-qq" target="_blank" title="QQ账号登录" data-point-2="qq">
+                        <span class="dy-icon dy-sina"></span>
+                        <span>QQ账号登录</span>
+                    </a>
+                    <a href="http://www.douyutv.com/member/oauth/signin/weibo" class="btn-sina" target="_blank" title="微博账号登录" data-point-2="wb">
+                        <span class="dy-icon dy-qq"></span>
+                        <span>微博账号登录</span>
+                    </a>
+                    <a href="/member/oauth/signin/acfun" class="btn-acfun" target="_blank" title="Acfun账号登录" data-point-2="ac">
+                        <span class="dy-icon dy-acfun"></span>
+                        <span>Acfun账号登录</span>
+                    </a>
+                </div>
+                <p class="forget-pass">
+                    <a href="/member/findpassword" target="_blank">忘记密码？</a>
+                </p>
+            </div>
+        </div>
+    </div>
+</script>
+
+<!--登陆弹框模式背景-->
+<script id="dytemp-vcode9-shadow" type="douyu/template">
+    <div class="vcode9-shadow hide"></div>
+</script>
+<!--九宫格验证码-->
+<script id="dytemp-vcode9" type="douyu/template">
+    <div class="vcode9" data-src="/member/register/regcaptcha">
+        <div class="vcode9-tit clearfix">
+            <h3>输入验证码完成注册</h3>
+            <a href="#" class="vcode9-close">关闭</a>
+        </div>
+
+        <div class="vcode9-con"> 
+            <div class="vcode9-preview clearfix">
+                <span>验证码</span>
+                <b></b>
+                <b></b>
+                <b></b>
+                <b></b>
+                <b class="p-delete" title="清除"></b>
+            </div>
+            <div class="vcode9-guide">
+                <span></span>
+                <a href="#">看不清？</a>
+            </div>
+            <div class="vcode9-action">点击框内文字输入验证码</div>
+            <div class="vcode9-input clearfix">
+                <a class="i-0" href="#">
+                    <b data-num="0"></b>
+                </a>
+                <a class="i-1" href="#">
+                    <b data-num="1"></b>
+                </a>
+                <a class="i-2" href="#">
+                    <b data-num="2"></b>
+                </a>
+                <a class="i-3" href="#">
+                    <b data-num="3"></b>
+                </a>
+                <a class="i-4" href="#">
+                    <b data-num="4"></b>
+                </a>
+                <a class="i-5" href="#">
+                    <b data-num="5"></b>
+                </a>
+                <a class="i-6" href="#">
+                    <b data-num="6"></b>
+                </a>
+                <a class="i-7" href="#">
+                    <b data-num="7"></b>
+                </a>
+                <a class="i-8" href="#">
+                    <b data-num="8"></b>
+                </a>
+            </div>
+        </div>
+    </div>
+</script>
+
+        <script type="text/javascript" charset="utf-8" src="http://shark.douyucdn.cn/app/douyu/third/art-dialog-dy/jquery.artDialog.js?skin=blue"></script><script type="text/javascript" charset="utf-8" src="http://shark.douyucdn.cn/app/douyu/third/art-dialog-dy/plugins/iframeTools.js?nv=5.2"></script><script type="text/javascript" charset="utf-8" src="http://shark.douyucdn.cn/app/douyu/js/page/lives/app-all.js?nv=5.2"></script>
+        <div style="position:absolute;width:0px;overflow:hidden;bottom:0px;">
+            <object 
+                type="application/x-shockwave-flash" 
+                id="hmac_flash_proxy" 
+                name="hmac_flash_proxy" 
+                data="http://staticlive.douyutv.com/common/simplayer/HTool.swf?1.6"
+                width="1px" 
+                height="1px">
+                <param name="allowFullScreen" value="always">
+                <param name="AllowScriptAccess" value="always">
+                <param name="wmode" value="opaque">
+            </object>
+        </div>
+    </body>
+    </html>
